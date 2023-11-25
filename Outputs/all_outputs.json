@@ -1,0 +1,4239 @@
+{
+    "Bilder 26-05-23": {
+        "Flugroute 1": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7324104532163743,
+                    "skript_2": 0.7224217227095516,
+                    "skript_1_2_schnittmenge": 0.6991639254385965,
+                    "skript_3": 0.7075
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.036807078460038986,
+                    "skript_3": 0.10205357142857142
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 19.711449910922298,
+                    "avg_temp_nicht_gruen": 29.82104940923739,
+                    "avg_temp_braun": 28.3805,
+                    "avg_temp_nicht_braun": 22.000277272727274,
+                    "avg_temp_wald": 19.634878145432932,
+                    "avg_temp_nicht_wald": 31.60969327420547,
+                    "avg_temp_all": 22.16642890625,
+                    "std_temp_gruen": 1.4481982485305895,
+                    "std_temp_nicht_gruen": 4.2676191703531385,
+                    "std_temp_braun": 5.250586381538733,
+                    "std_temp_nicht_braun": 4.859848832057027,
+                    "std_temp_wald": 1.0159763605220238,
+                    "std_temp_nicht_wald": 0.3974266797614985,
+                    "std_temp_all": 4.975287633136972,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            16.115,
+                            32.495
+                        ],
+                        "braune_pixel": [
+                            17.09,
+                            35.03
+                        ],
+                        "wald_pixel": [
+                            16.115,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            16.115,
+                            35.03
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8313185307017544,
+                    "skript_2": 0.681691642300195,
+                    "skript_1_2_schnittmenge": 0.6737161915204678,
+                    "skript_3": 0.8482142857142857
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.12381518031189084,
+                    "skript_3": 0.3340625
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 17.664241144255417,
+                    "avg_temp_nicht_gruen": 17.226372549019608,
+                    "avg_temp_braun": 18.313975138121545,
+                    "avg_temp_nicht_braun": 17.553267970097757,
+                    "avg_temp_wald": 17.03599279516579,
+                    "avg_temp_nicht_wald": 18.83328512396694,
+                    "avg_temp_all": 17.624980468750003,
+                    "std_temp_gruen": 1.0477762527336572,
+                    "std_temp_nicht_gruen": 1.4032101575891218,
+                    "std_temp_braun": 0.9317248971194627,
+                    "std_temp_nicht_braun": 1.088324006033162,
+                    "std_temp_wald": 0.8110332677793416,
+                    "std_temp_nicht_wald": 0.3911704376180636,
+                    "std_temp_all": 1.0972863062572957,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            15.335,
+                            21.38
+                        ],
+                        "braune_pixel": [
+                            15.920000000000002,
+                            22.745
+                        ],
+                        "wald_pixel": [
+                            15.335,
+                            18.26
+                        ],
+                        "alle_pixel": [
+                            15.335,
+                            22.745
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8495370370370371,
+                    "skript_2": 0.8420169346978558,
+                    "skript_1_2_schnittmenge": 0.828796600877193,
+                    "skript_3": 0.5797321428571428
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.009113060428849903,
+                    "skript_3": 0.017232142857142856
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 18.35418266705573,
+                    "avg_temp_nicht_gruen": 17.64143442622951,
+                    "avg_temp_braun": 19.31109756097561,
+                    "avg_temp_nicht_braun": 18.275623205804056,
+                    "avg_temp_wald": 18.228534577387485,
+                    "avg_temp_nicht_wald": 31.94673913043478,
+                    "avg_temp_all": 18.277834374999998,
+                    "std_temp_gruen": 0.9248406002533537,
+                    "std_temp_nicht_gruen": 2.4691750910909143,
+                    "std_temp_braun": 2.3663580930679533,
+                    "std_temp_nicht_braun": 1.207845443689839,
+                    "std_temp_wald": 0.8929724349509336,
+                    "std_temp_nicht_wald": 0.6691682194038436,
+                    "std_temp_all": 1.2124428165921308,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            15.725000000000001,
+                            32.69
+                        ],
+                        "braune_pixel": [
+                            17.285,
+                            31.715000000000003
+                        ],
+                        "wald_pixel": [
+                            15.725000000000001,
+                            22.94
+                        ],
+                        "alle_pixel": [
+                            15.725000000000001,
+                            33.86
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8740253411306043,
+                    "skript_2": 0.8471110501949318,
+                    "skript_1_2_schnittmenge": 0.8387563961988304,
+                    "skript_3": 0.8067410714285714
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.021049585769980506,
+                    "skript_3": 0.07245535714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 22.368071766561517,
+                    "avg_temp_nicht_gruen": 21.62600817438692,
+                    "avg_temp_braun": 21.74522099447514,
+                    "avg_temp_nicht_braun": 22.315987696514014,
+                    "avg_temp_wald": 21.166308556055906,
+                    "avg_temp_nicht_wald": 31.62348643503094,
+                    "avg_temp_all": 22.31060703125,
+                    "std_temp_gruen": 3.4093959593457397,
+                    "std_temp_nicht_gruen": 3.921795413184625,
+                    "std_temp_braun": 3.823789225305082,
+                    "std_temp_nicht_braun": 3.4523378705210965,
+                    "std_temp_wald": 1.1921406932425547,
+                    "std_temp_nicht_wald": 0.47570025883009753,
+                    "std_temp_all": 3.456466079743777,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            18.455,
+                            34.64
+                        ],
+                        "braune_pixel": [
+                            18.65,
+                            32.69
+                        ],
+                        "wald_pixel": [
+                            18.455,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            18.455,
+                            35.03
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8415889985380117,
+                    "skript_2": 0.8176839668615984,
+                    "skript_1_2_schnittmenge": 0.7871999878167641,
+                    "skript_3": 0.6816517857142858
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.03336379142300195,
+                    "skript_3": 0.100625
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 22.51643292176513,
+                    "avg_temp_nicht_gruen": 21.574160929432015,
+                    "avg_temp_braun": 23.555217917675545,
+                    "avg_temp_nicht_braun": 22.43761058178528,
+                    "avg_temp_wald": 21.375325186654226,
+                    "avg_temp_nicht_wald": 31.519999999999996,
+                    "avg_temp_all": 22.461650781250004,
+                    "std_temp_gruen": 3.2841937301607893,
+                    "std_temp_nicht_gruen": 1.950226355392797,
+                    "std_temp_braun": 3.452397675584483,
+                    "std_temp_nicht_braun": 3.2191202019488196,
+                    "std_temp_wald": 0.8074673605698853,
+                    "std_temp_nicht_wald": 7.105427357601002e-15,
+                    "std_temp_all": 3.228389912520639,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            19.43,
+                            31.520000000000003
+                        ],
+                        "braune_pixel": [
+                            20.6,
+                            31.520000000000003
+                        ],
+                        "wald_pixel": [
+                            19.43,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            19.43,
+                            31.520000000000003
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8121268884015594,
+                    "skript_2": 0.7507675438596492,
+                    "skript_1_2_schnittmenge": 0.7344222100389863,
+                    "skript_3": 0.749375
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.05134777046783626,
+                    "skript_3": 0.18397321428571428
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 24.67325728611721,
+                    "avg_temp_nicht_gruen": 21.42524567788899,
+                    "avg_temp_braun": 22.972160751565763,
+                    "avg_temp_nicht_braun": 24.15512258960526,
+                    "avg_temp_wald": 21.61010952214859,
+                    "avg_temp_nicht_wald": 31.537676258992814,
+                    "avg_temp_all": 24.125610156250005,
+                    "std_temp_gruen": 4.476012072020276,
+                    "std_temp_nicht_gruen": 2.8983233730181377,
+                    "std_temp_braun": 3.7843168672313854,
+                    "std_temp_nicht_braun": 4.433330244038134,
+                    "std_temp_wald": 1.0984191426994063,
+                    "std_temp_nicht_wald": 0.1939958492832755,
+                    "std_temp_all": 4.422149009042788,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            18.845,
+                            34.64
+                        ],
+                        "braune_pixel": [
+                            19.235,
+                            31.520000000000003
+                        ],
+                        "wald_pixel": [
+                            18.845,
+                            22.94
+                        ],
+                        "alle_pixel": [
+                            18.845,
+                            34.64
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7724506578947369,
+                    "skript_2": 0.7418037280701755,
+                    "skript_1_2_schnittmenge": 0.7098531920077973,
+                    "skript_3": 0.7052232142857143
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.05309301900584795,
+                    "skript_3": 0.20736607142857144
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 20.563958321120815,
+                    "avg_temp_nicht_gruen": 20.668797752808988,
+                    "avg_temp_braun": 21.34528409090909,
+                    "avg_temp_nicht_braun": 20.54470338983051,
+                    "avg_temp_wald": 20.535965127829773,
+                    "avg_temp_nicht_wald": 31.520000000000007,
+                    "avg_temp_all": 20.57772734375,
+                    "std_temp_gruen": 0.9150114633374505,
+                    "std_temp_nicht_gruen": 1.3908535184043904,
+                    "std_temp_braun": 2.253306201950126,
+                    "std_temp_nicht_braun": 0.873663638677856,
+                    "std_temp_wald": 0.7152370384795231,
+                    "std_temp_nicht_wald": 3.552713678800501e-15,
+                    "std_temp_all": 0.9831543955566285,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            18.845,
+                            31.520000000000003
+                        ],
+                        "braune_pixel": [
+                            19.43,
+                            31.520000000000003
+                        ],
+                        "wald_pixel": [
+                            18.845,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            18.845,
+                            31.520000000000003
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7587353801169591,
+                    "skript_2": 0.6721064814814814,
+                    "skript_1_2_schnittmenge": 0.6503974780701754,
+                    "skript_3": 0.6918303571428571
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.08799646686159844,
+                    "skript_3": 0.221875
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 24.112750877841435,
+                    "avg_temp_nicht_gruen": 21.265199538258578,
+                    "avg_temp_braun": 22.78463302752294,
+                    "avg_temp_nicht_braun": 23.743860990833944,
+                    "avg_temp_wald": 21.62909702177906,
+                    "avg_temp_nicht_wald": 31.54927957532861,
+                    "avg_temp_all": 23.67306796875,
+                    "std_temp_gruen": 4.206834011282297,
+                    "std_temp_nicht_gruen": 2.7197182724728095,
+                    "std_temp_braun": 2.8924169844820433,
+                    "std_temp_nicht_braun": 4.216723001450882,
+                    "std_temp_wald": 1.1423233029965432,
+                    "std_temp_nicht_wald": 0.26103162993691814,
+                    "std_temp_all": 4.141113992549168,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            18.845,
+                            35.03
+                        ],
+                        "braune_pixel": [
+                            19.43,
+                            35.03
+                        ],
+                        "wald_pixel": [
+                            18.845,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            18.845,
+                            35.03
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00009": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6310687743664717,
+                    "skript_2": 0.5011513157894737,
+                    "skript_1_2_schnittmenge": 0.4822490253411306,
+                    "skript_3": 0.31736607142857143
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.21000548245614034,
+                    "skript_3": 0.3069642857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 23.540231510498277,
+                    "avg_temp_nicht_gruen": 22.58081325301205,
+                    "avg_temp_braun": 22.682807431158057,
+                    "avg_temp_nicht_braun": 23.418071305223773,
+                    "avg_temp_wald": 22.172711178849877,
+                    "avg_temp_nicht_wald": 31.520000000000003,
+                    "avg_temp_all": 23.215031250000006,
+                    "std_temp_gruen": 3.410421702683595,
+                    "std_temp_nicht_gruen": 1.827227498861443,
+                    "std_temp_braun": 2.023084383728658,
+                    "std_temp_nicht_braun": 3.2797245987121184,
+                    "std_temp_wald": 0.643626426829065,
+                    "std_temp_nicht_wald": 0.0,
+                    "std_temp_all": 3.004080033984771,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            19.82,
+                            31.520000000000003
+                        ],
+                        "braune_pixel": [
+                            19.82,
+                            31.520000000000003
+                        ],
+                        "wald_pixel": [
+                            19.82,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            19.82,
+                            31.520000000000003
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00010": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8523894371345029,
+                    "skript_2": 0.789239156920078,
+                    "skript_1_2_schnittmenge": 0.7860227826510722,
+                    "skript_3": 0.6748660714285715
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.07180951510721248,
+                    "skript_3": 0.14200892857142858
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 19.6272673023685,
+                    "avg_temp_nicht_gruen": 29.98138794854435,
+                    "avg_temp_braun": 28.806027397260277,
+                    "avg_temp_nicht_braun": 20.729866625998227,
+                    "avg_temp_wald": 19.49174566614135,
+                    "avg_temp_nicht_wald": 31.780745743893416,
+                    "avg_temp_all": 21.221166406250003,
+                    "std_temp_gruen": 1.605535314425439,
+                    "std_temp_nicht_gruen": 4.253617732585578,
+                    "std_temp_braun": 5.080084500625553,
+                    "std_temp_nicht_braun": 3.808411889914016,
+                    "std_temp_wald": 0.8537378034548033,
+                    "std_temp_nicht_wald": 0.46021208154745225,
+                    "std_temp_all": 4.349489221408959,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            16.115,
+                            32.495
+                        ],
+                        "braune_pixel": [
+                            17.675,
+                            33.275
+                        ],
+                        "wald_pixel": [
+                            16.115,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            16.115,
+                            33.275
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00011": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8560581140350877,
+                    "skript_2": 0.8073297392787524,
+                    "skript_1_2_schnittmenge": 0.7861781189083821,
+                    "skript_3": 0.8622767857142857
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.0530656067251462,
+                    "skript_3": 0.29598214285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 22.851964830432443,
+                    "avg_temp_nicht_gruen": 21.96207317073171,
+                    "avg_temp_braun": 22.408920454545456,
+                    "avg_temp_nicht_braun": 22.747574152542374,
+                    "avg_temp_wald": 21.914101469080972,
+                    "avg_temp_nicht_wald": 31.519999999999996,
+                    "avg_temp_all": 22.7336046875,
+                    "std_temp_gruen": 2.859235560325942,
+                    "std_temp_nicht_gruen": 1.8491355183917029,
+                    "std_temp_braun": 1.9580890569726799,
+                    "std_temp_nicht_braun": 2.791215828198556,
+                    "std_temp_wald": 0.6870168642775347,
+                    "std_temp_nicht_wald": 7.105427357601002e-15,
+                    "std_temp_all": 2.762644489712806,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            19.625,
+                            31.520000000000003
+                        ],
+                        "braune_pixel": [
+                            20.405,
+                            31.520000000000003
+                        ],
+                        "wald_pixel": [
+                            19.625,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            19.625,
+                            31.520000000000003
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00012": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8209475511695906,
+                    "skript_2": 0.7506076388888889,
+                    "skript_1_2_schnittmenge": 0.7342303240740741,
+                    "skript_3": 0.718125
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.06369852582846004,
+                    "skript_3": 0.19232142857142856
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 23.408258072422036,
+                    "avg_temp_nicht_gruen": 20.773879427792917,
+                    "avg_temp_braun": 22.00924167694205,
+                    "avg_temp_nicht_braun": 23.057950133231824,
+                    "avg_temp_wald": 21.7334834960762,
+                    "avg_temp_nicht_wald": 31.537734343837258,
+                    "avg_temp_all": 23.013653125,
+                    "std_temp_gruen": 3.5376041485386405,
+                    "std_temp_nicht_gruen": 1.5980800931430021,
+                    "std_temp_braun": 1.7258139338991885,
+                    "std_temp_nicht_braun": 3.500770194890691,
+                    "std_temp_wald": 1.0685564546178157,
+                    "std_temp_nicht_wald": 0.15249864290593293,
+                    "std_temp_all": 3.450801288060172,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            18.845,
+                            33.275
+                        ],
+                        "braune_pixel": [
+                            18.65,
+                            31.520000000000003
+                        ],
+                        "wald_pixel": [
+                            18.65,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            18.65,
+                            33.275
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00013": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7417854532163742,
+                    "skript_2": 0.7476821393762183,
+                    "skript_1_2_schnittmenge": 0.6995431286549708,
+                    "skript_3": 0.5725
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.04303575779727096,
+                    "skript_3": 0.12352678571428571
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 14.202187999166608,
+                    "avg_temp_nicht_gruen": 12.472151715584953,
+                    "avg_temp_braun": 15.50445273631841,
+                    "avg_temp_nicht_braun": 13.717434263590903,
+                    "avg_temp_wald": 13.589114847715736,
+                    "avg_temp_nicht_wald": 25.8853125,
+                    "avg_temp_all": 13.7735578125,
+                    "std_temp_gruen": 3.7999290102339143,
+                    "std_temp_nicht_gruen": 5.425387366807782,
+                    "std_temp_braun": 3.9139504542359638,
+                    "std_temp_nicht_braun": 4.331531339709849,
+                    "std_temp_wald": 4.029597691145184,
+                    "std_temp_nicht_wald": 5.905649696675528,
+                    "std_temp_all": 4.330262244667777,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            5.0,
+                            39.905
+                        ],
+                        "braune_pixel": [
+                            5.0,
+                            39.71
+                        ],
+                        "wald_pixel": [
+                            5.0,
+                            19.82
+                        ],
+                        "alle_pixel": [
+                            5.0,
+                            40.49
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00014": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8656067251461989,
+                    "skript_2": 0.8368040326510722,
+                    "skript_1_2_schnittmenge": 0.8237344663742691,
+                    "skript_3": 0.8549553571428572
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.042373294346978556,
+                    "skript_3": 0.11683035714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 22.267440422863288,
+                    "avg_temp_nicht_gruen": 27.39432061978546,
+                    "avg_temp_braun": 26.2371350931677,
+                    "avg_temp_nicht_braun": 22.82914340375081,
+                    "avg_temp_wald": 21.530668595978288,
+                    "avg_temp_nicht_wald": 32.64310733306022,
+                    "avg_temp_all": 22.943453125,
+                    "std_temp_gruen": 2.860367206759638,
+                    "std_temp_nicht_gruen": 5.93935649857016,
+                    "std_temp_braun": 5.697366224251389,
+                    "std_temp_nicht_braun": 3.7049347187469985,
+                    "std_temp_wald": 0.9968451527546511,
+                    "std_temp_nicht_wald": 1.1235974106795719,
+                    "std_temp_all": 3.838149548772199,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            18.26,
+                            36.2
+                        ],
+                        "braune_pixel": [
+                            19.235,
+                            35.03
+                        ],
+                        "wald_pixel": [
+                            18.26,
+                            22.94
+                        ],
+                        "alle_pixel": [
+                            18.26,
+                            36.2
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00015": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9255147417153996,
+                    "skript_2": 0.9113258406432748,
+                    "skript_1_2_schnittmenge": 0.9085313109161793,
+                    "skript_3": 0.9131696428571429
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.021821698343079923,
+                    "skript_3": 0.038526785714285715
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 20.752199354766937,
+                    "avg_temp_nicht_gruen": 26.255607950116914,
+                    "avg_temp_braun": 27.533875,
+                    "avg_temp_nicht_braun": 21.045723101265825,
+                    "avg_temp_wald": 20.583791573675907,
+                    "avg_temp_nicht_wald": 33.160681544028954,
+                    "avg_temp_all": 21.126825,
+                    "std_temp_gruen": 1.8522998356472298,
+                    "std_temp_nicht_gruen": 6.434993062753996,
+                    "std_temp_braun": 6.557399731172029,
+                    "std_temp_nicht_braun": 2.6218507297854425,
+                    "std_temp_wald": 1.1280108301855651,
+                    "std_temp_nicht_wald": 1.4679131811081183,
+                    "std_temp_all": 2.800944937762076,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            16.895,
+                            36.2
+                        ],
+                        "braune_pixel": [
+                            19.43,
+                            36.2
+                        ],
+                        "wald_pixel": [
+                            16.895,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            16.895,
+                            36.2
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00016": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8668448464912281,
+                    "skript_2": 0.8232654117933723,
+                    "skript_1_2_schnittmenge": 0.8139772173489279,
+                    "skript_3": 0.8909375
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.1156097709551657,
+                    "skript_3": 0.14620535714285715
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 19.269039370078737,
+                    "avg_temp_nicht_gruen": 26.78353752759382,
+                    "avg_temp_braun": 27.359969809568046,
+                    "avg_temp_nicht_braun": 19.44822226784772,
+                    "avg_temp_wald": 19.04319893715342,
+                    "avg_temp_nicht_wald": 32.184322033898304,
+                    "avg_temp_all": 20.335409374999998,
+                    "std_temp_gruen": 2.3479554312446855,
+                    "std_temp_nicht_gruen": 6.156238543066989,
+                    "std_temp_braun": 6.105296672244948,
+                    "std_temp_nicht_braun": 2.7146195326319846,
+                    "std_temp_wald": 1.314925488435563,
+                    "std_temp_nicht_wald": 0.9265934174903998,
+                    "std_temp_all": 4.117611327377756,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            16.115,
+                            33.86
+                        ],
+                        "braune_pixel": [
+                            16.7,
+                            35.03
+                        ],
+                        "wald_pixel": [
+                            16.115,
+                            22.94
+                        ],
+                        "alle_pixel": [
+                            16.115,
+                            35.03
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00017": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9265259502923977,
+                    "skript_2": 0.9026224415204679,
+                    "skript_1_2_schnittmenge": 0.9001644736842105,
+                    "skript_3": 0.9261160714285714
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.03562682748538012,
+                    "skript_3": 0.053392857142857145
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 19.726355618776672,
+                    "avg_temp_nicht_gruen": 23.576555755395688,
+                    "avg_temp_braun": 24.54551053484603,
+                    "avg_temp_nicht_braun": 19.917337351342628,
+                    "avg_temp_wald": 19.47628777135377,
+                    "avg_temp_nicht_wald": 32.55219399538106,
+                    "avg_temp_all": 20.066065625,
+                    "std_temp_gruen": 2.141650576248898,
+                    "std_temp_nicht_gruen": 6.292109764336576,
+                    "std_temp_braun": 6.096880976408241,
+                    "std_temp_nicht_braun": 2.6766760241265692,
+                    "std_temp_wald": 1.1968638156081757,
+                    "std_temp_nicht_wald": 1.1837208097509238,
+                    "std_temp_all": 2.9656557053847066,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            16.31,
+                            35.03
+                        ],
+                        "braune_pixel": [
+                            16.7,
+                            35.03
+                        ],
+                        "wald_pixel": [
+                            16.31,
+                            22.745
+                        ],
+                        "alle_pixel": [
+                            16.31,
+                            35.03
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00018": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7786001461988304,
+                    "skript_2": 0.7254690545808967,
+                    "skript_1_2_schnittmenge": 0.7012959917153996,
+                    "skript_3": 0.6249553571428571
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.08201754385964913,
+                    "skript_3": 0.225
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 15.526585032152141,
+                    "avg_temp_nicht_gruen": 12.383812244018106,
+                    "avg_temp_braun": 16.611330418488443,
+                    "avg_temp_nicht_braun": 14.619320415932723,
+                    "avg_temp_wald": 14.57693103448276,
+                    "avg_temp_nicht_wald": 26.01431428571428,
+                    "avg_temp_all": 14.785425000000002,
+                    "std_temp_gruen": 3.3038014266591005,
+                    "std_temp_nicht_gruen": 6.247958790720538,
+                    "std_temp_braun": 3.5675017648354532,
+                    "std_temp_nicht_braun": 4.438260971772437,
+                    "std_temp_wald": 4.080529993729554,
+                    "std_temp_nicht_wald": 6.336019443383896,
+                    "std_temp_all": 4.406831552827949,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            5.0,
+                            40.49
+                        ],
+                        "braune_pixel": [
+                            5.0,
+                            39.905
+                        ],
+                        "wald_pixel": [
+                            5.0,
+                            19.82
+                        ],
+                        "alle_pixel": [
+                            5.0,
+                            40.49
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00019": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7917534722222223,
+                    "skript_2": 0.6314632066276803,
+                    "skript_1_2_schnittmenge": 0.622995857699805,
+                    "skript_3": 0.7119196428571428
+                },
+                "baumbewuchs_anteil": {},
+                "braun_anteil": {
+                    "skript_1": 0.1518290082846004,
+                    "skript_3": 0.37464285714285717
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {
+                    "avg_temp_gruen": 18.951415454025547,
+                    "avg_temp_nicht_gruen": 14.639022140221405,
+                    "avg_temp_braun": 18.971698412698412,
+                    "avg_temp_nicht_braun": 18.057695692025668,
+                    "avg_temp_wald": 16.087202447163516,
+                    "avg_temp_nicht_wald": 21.46783175828564,
+                    "avg_temp_all": 18.192653906249998,
+                    "std_temp_gruen": 3.7290528846162743,
+                    "std_temp_nicht_gruen": 6.263160937529795,
+                    "std_temp_braun": 2.6030758462684207,
+                    "std_temp_nicht_braun": 4.835342776688633,
+                    "std_temp_wald": 4.440184340033154,
+                    "std_temp_nicht_wald": 2.337240416200892,
+                    "std_temp_all": 4.586274601296827,
+                    "temperaturbereiche": {
+                        "gruene_pixel": [
+                            5.0,
+                            39.515
+                        ],
+                        "braune_pixel": [
+                            7.73,
+                            38.54
+                        ],
+                        "wald_pixel": [
+                            5.0,
+                            19.625
+                        ],
+                        "alle_pixel": [
+                            5.0,
+                            39.905
+                        ]
+                    }
+                },
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            }
+        }
+    },
+    "Bilder 29-08-22": {
+        "Flugroute 2": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6132340399610137,
+                    "skript_2": 0.5956368786549707,
+                    "skript_1_2_schnittmenge": 0.5670260721247563,
+                    "skript_3": 0.5516517857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.6788020833333334,
+                    "skript_5": 0.7237505715592135,
+                    "skript_6": 0.6755208333333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.15173001949317738,
+                    "skript_3": 0.26973214285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.8537558505332618,
+                    "baumbewuchs_braun_anteil_skript_1": 0.07059004066600169
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.5364951989026063,
+                "anteil_wiese_gruen": 0.059830818472793784
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7046829312865497,
+                    "skript_2": 0.6780397173489279,
+                    "skript_1_2_schnittmenge": 0.648978131091618,
+                    "skript_3": 0.6559821428571428
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.8233333333333334,
+                    "skript_5": 0.8100845907636031,
+                    "skript_6": 0.7879166666666667
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1123461866471735,
+                    "skript_3": 0.22950892857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.7718876518218624,
+                    "baumbewuchs_braun_anteil_skript_1": 0.1107667004048583
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.6182510288065843,
+                "anteil_wiese_gruen": 0.05297439414723366
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6749421296296296,
+                    "skript_2": 0.6452439692982456,
+                    "skript_1_2_schnittmenge": 0.617583455165692,
+                    "skript_3": 0.6820982142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.8016666666666666,
+                    "skript_5": 0.8361705532693187,
+                    "skript_6": 0.8038541666666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.11601790935672515,
+                    "skript_3": 0.22723214285714285
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.8817567567567568,
+                    "baumbewuchs_braun_anteil_skript_1": 0.080756237006237
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.6631584362139917,
+                "anteil_wiese_gruen": 0.036524919981710105
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.633944018031189,
+                    "skript_2": 0.6089333576998051,
+                    "skript_1_2_schnittmenge": 0.5835480628654971,
+                    "skript_3": 0.6095535714285715
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.74734375,
+                    "skript_5": 0.7495770461819845,
+                    "skript_6": 0.69
+                },
+                "braun_anteil": {
+                    "skript_1": 0.12770315545808966,
+                    "skript_3": 0.22142857142857142
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.6022022440588194,
+                    "baumbewuchs_braun_anteil_skript_1": 0.1215415708411736
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.5725685871056242,
+                "anteil_wiese_gruen": 0.04800068587105624
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6142650462962963,
+                    "skript_2": 0.5929230628654971,
+                    "skript_1_2_schnittmenge": 0.5663133528265107,
+                    "skript_3": 0.6273660714285715
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.5482291666666667,
+                    "skript_5": 0.6263637402834934,
+                    "skript_6": 0.60625
+                },
+                "braun_anteil": {
+                    "skript_1": 0.11985867446393762,
+                    "skript_3": 0.21267857142857144
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.6356640699220977,
+                    "baumbewuchs_braun_anteil_skript_1": 0.037051111533346
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.48153406492912665,
+                "anteil_wiese_gruen": 0.10960562414266117
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.671238425925926,
+                    "skript_2": 0.6340795565302144,
+                    "skript_1_2_schnittmenge": 0.6053758528265107,
+                    "skript_3": 0.7130357142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.82,
+                    "skript_5": 0.8504069501600365,
+                    "skript_6": 0.8288020833333334
+                },
+                "braun_anteil": {
+                    "skript_1": 0.11448434454191034,
+                    "skript_3": 0.24892857142857142
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.7807418699186992,
+                    "baumbewuchs_braun_anteil_skript_1": 0.1169969512195122
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.6449508459076361,
+                "anteil_wiese_gruen": 0.03796753543667124
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5902671174463937,
+                    "skript_2": 0.5620659722222222,
+                    "skript_1_2_schnittmenge": 0.519520589668616,
+                    "skript_3": 0.6064732142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.62234375,
+                    "skript_5": 0.6526760402377686,
+                    "skript_6": 0.6306770833333334
+                },
+                "braun_anteil": {
+                    "skript_1": 0.12722191764132554,
+                    "skript_3": 0.23924107142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.340446899322119,
+                    "baumbewuchs_braun_anteil_skript_1": 0.05799648506151142
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.46251257430269777,
+                "anteil_wiese_gruen": 0.10724508459076361
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5909143518518518,
+                    "skript_2": 0.550813230994152,
+                    "skript_1_2_schnittmenge": 0.5165402655945419,
+                    "skript_3": 0.6803125
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.79328125,
+                    "skript_5": 0.8034042066758116,
+                    "skript_6": 0.7863020833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.14852278265107213,
+                    "skript_3": 0.23325892857142858
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.7399382837633773,
+                    "baumbewuchs_braun_anteil_skript_1": 0.1460179896264198
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.5118152720621857,
+                "anteil_wiese_gruen": 0.04348308184727938
+            },
+            "YUN00009": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6014300073099416,
+                    "skript_2": 0.5747121710526316,
+                    "skript_1_2_schnittmenge": 0.5392985501949318,
+                    "skript_3": 0.6220535714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.68796875,
+                    "skript_5": 0.7099759945130315,
+                    "skript_6": 0.7018229166666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.09477948343079921,
+                    "skript_3": 0.1440625
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.6607616019380725,
+                    "baumbewuchs_braun_anteil_skript_1": 0.06783253842077372
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.4848696844993141,
+                "anteil_wiese_gruen": 0.0713294467306813
+            },
+            "YUN00010": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5608522173489279,
+                    "skript_2": 0.5143061647173489,
+                    "skript_1_2_schnittmenge": 0.475307626705653,
+                    "skript_3": 0.5892410714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.6285416666666667,
+                    "skript_5": 0.6223376771833562,
+                    "skript_6": 0.61234375
+                },
+                "braun_anteil": {
+                    "skript_1": 0.11266751949317738,
+                    "skript_3": 0.17888392857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.5580046403712297,
+                    "baumbewuchs_braun_anteil_skript_1": 0.18909512761020883
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.3993232738911751,
+                "anteil_wiese_gruen": 0.0993941472336534
+            },
+            "YUN00011": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5210967958089668,
+                    "skript_2": 0.46295077972709553,
+                    "skript_1_2_schnittmenge": 0.42887731481481484,
+                    "skript_3": 0.5423660714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.6117708333333334,
+                    "skript_5": 0.6265935070873343,
+                    "skript_6": 0.62046875
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1223501461988304,
+                    "skript_3": 0.1445982142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.42644304444066067,
+                    "baumbewuchs_braun_anteil_skript_1": 0.2588966456666099
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.3865340649291267,
+                "anteil_wiese_gruen": 0.08881344307270234
+            }
+        },
+        "Flugroute 1": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.4234923245614035,
+                    "skript_2": 0.4334932383040936,
+                    "skript_1_2_schnittmenge": 0.3960541544834308,
+                    "skript_3": 0.35348214285714286
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.6129166666666667,
+                    "skript_5": 0.6072702331961591,
+                    "skript_6": 0.6052083333333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.0793311403508772,
+                    "skript_3": 0.06540178571428572
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.6461590754588715,
+                    "baumbewuchs_braun_anteil_skript_1": 0.014615907545887152
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.4636213991769547,
+                "anteil_wiese_gruen": 0.03631229995427526
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.37180190058479534,
+                    "skript_2": 0.3901574683235867,
+                    "skript_1_2_schnittmenge": 0.3483902899610136,
+                    "skript_3": 0.30955357142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.4438020833333333,
+                    "skript_5": 0.4345667581161408,
+                    "skript_6": 0.4334895833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.07153691520467836,
+                    "skript_3": 0.09111607142857144
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.1761530336814928,
+                    "baumbewuchs_braun_anteil_skript_1": 0.019598638657434574
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.32985253772290807,
+                "anteil_wiese_gruen": 0.06682556012802926
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {},
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.25536458333333334,
+                    "skript_5": 0.24855509830818473,
+                    "skript_6": 0.24677083333333333
+                },
+                "braun_anteil": {},
+                "schnittmengen": {},
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.1826771833561957,
+                "anteil_wiese_gruen": 0.06286579789666209
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.01537676656920078,
+                    "skript_2": 0.06547423245614035,
+                    "skript_1_2_schnittmenge": 0.008829800194931774,
+                    "skript_3": 0.0
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.047590765107212475,
+                    "skript_3": 0.0033928571428571428
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.13663194444444443,
+                    "skript_2": 0.17750060916179336,
+                    "skript_1_2_schnittmenge": 0.11350663986354775,
+                    "skript_3": 0.05482142857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.10828125,
+                    "skript_5": 0.10365340649291267,
+                    "skript_6": 0.10854166666666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.08010629873294348,
+                    "skript_3": 0.03736607142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.2106782106782107,
+                    "baumbewuchs_braun_anteil_skript_1": 0.05675805675805676
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.04544810242341107,
+                "anteil_wiese_gruen": 0.05245313214449017
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.2880482456140351,
+                    "skript_2": 0.29374695419103314,
+                    "skript_1_2_schnittmenge": 0.25491898148148145,
+                    "skript_3": 0.1883482142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.33848958333333334,
+                    "skript_5": 0.32774919981710104,
+                    "skript_6": 0.32776041666666667
+                },
+                "braun_anteil": {
+                    "skript_1": 0.07500761452241715,
+                    "skript_3": 0.06433035714285715
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.5319279889213725,
+                    "baumbewuchs_braun_anteil_skript_1": 0.01261732574242191
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.192798353909465,
+                "anteil_wiese_gruen": 0.08934156378600823
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.19133467348927874,
+                    "skript_2": 0.1981907894736842,
+                    "skript_1_2_schnittmenge": 0.15631091617933723,
+                    "skript_3": 0.1175
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.21130208333333333,
+                    "skript_5": 0.20228052126200274,
+                    "skript_6": 0.20421875
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1171083089668616,
+                    "skript_3": 0.11607142857142858
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.43751540547202367,
+                    "baumbewuchs_braun_anteil_skript_1": 0.13852600443677593
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.1256207133058985,
+                "anteil_wiese_gruen": 0.09747828074988568
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.15583729288499026,
+                    "skript_2": 0.17118969298245615,
+                    "skript_1_2_schnittmenge": 0.12484009502923976,
+                    "skript_3": 0.06022321428571428
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.17802083333333332,
+                    "skript_5": 0.1736888431641518,
+                    "skript_6": 0.17375
+                },
+                "braun_anteil": {
+                    "skript_1": 0.11006487573099415,
+                    "skript_3": 0.09383928571428571
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.12024575775307197,
+                    "baumbewuchs_braun_anteil_skript_1": 0.11673493270918665
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.09256630086877,
+                "anteil_wiese_gruen": 0.08938385916780979
+            }
+        }
+    },
+    "Bilder 22-10-22": {
+        "Flugroute 2": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5473958333333333,
+                    "skript_2": 0.5561083698830409,
+                    "skript_1_2_schnittmenge": 0.5014284844054581,
+                    "skript_3": 0.4386607142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.86546875,
+                    "skript_5": 0.0,
+                    "skript_6": 0.4884895833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.17548732943469786,
+                    "skript_3": 0.3172767857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.8129024492989108,
+                    "baumbewuchs_braun_anteil_skript_1": 0.15893362219413854
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.5061065386374028
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6621086135477583,
+                    "skript_2": 0.6619030214424951,
+                    "skript_1_2_schnittmenge": 0.6153432626705653,
+                    "skript_3": 0.5330803571428572
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9724479166666666,
+                    "skript_5": 0.004511888431641518,
+                    "skript_6": 0.5746354166666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.14995888157894738,
+                    "skript_3": 0.3065625
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.8591398425365541,
+                    "baumbewuchs_braun_anteil_skript_1": 0.09662042740078196
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.004370141746684956,
+                "anteil_wiese_gruen": 0.5679401005944216
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5738288864522417,
+                    "skript_2": 0.5693104288499026,
+                    "skript_1_2_schnittmenge": 0.5202744273879142,
+                    "skript_3": 0.49589285714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.93046875,
+                    "skript_5": 0.006250571559213535,
+                    "skript_6": 0.60046875
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1814921418128655,
+                    "skript_3": 0.3420535714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.8016232857542681,
+                    "baumbewuchs_braun_anteil_skript_1": 0.13954659949622167
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.005086877000457247,
+                "anteil_wiese_gruen": 0.5585882487425697
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.540370674951267,
+                    "skript_2": 0.5350877192982456,
+                    "skript_1_2_schnittmenge": 0.48518518518518516,
+                    "skript_3": 0.43558035714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.8973958333333333,
+                    "skript_5": 0.0014506172839506173,
+                    "skript_6": 0.5003125
+                },
+                "braun_anteil": {
+                    "skript_1": 0.17143792641325536,
+                    "skript_3": 0.2516964285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.5155542658154382,
+                    "baumbewuchs_braun_anteil_skript_1": 0.19582124201973303
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0013786008230452676,
+                "anteil_wiese_gruen": 0.5013168724279835
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5578520955165692,
+                    "skript_2": 0.5545748050682261,
+                    "skript_1_2_schnittmenge": 0.5016569200779727,
+                    "skript_3": 0.4361607142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9069270833333334,
+                    "skript_5": 0.0011133973479652492,
+                    "skript_6": 0.575
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1614964059454191,
+                    "skript_3": 0.25808035714285715
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.4957215873198185,
+                    "baumbewuchs_braun_anteil_skript_1": 0.2167346235571125
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0011133973479652492,
+                "anteil_wiese_gruen": 0.5080006858710563
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5575231481481482,
+                    "skript_2": 0.5538209673489278,
+                    "skript_1_2_schnittmenge": 0.5018746954191033,
+                    "skript_3": 0.4365625
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.8997395833333334,
+                    "skript_5": 0.008245313214449016,
+                    "skript_6": 0.5799479166666667
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1616243299220273,
+                    "skript_3": 0.26107142857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.49082489146164976,
+                    "baumbewuchs_braun_anteil_skript_1": 0.22199710564399422
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.007487425697302241,
+                "anteil_wiese_gruen": 0.5017158207590307
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.4538605628654971,
+                    "skript_2": 0.4379675316764133,
+                    "skript_1_2_schnittmenge": 0.3898254751461988,
+                    "skript_3": 0.3509375
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.97828125,
+                    "skript_5": 0.00487997256515775,
+                    "skript_6": 0.7053125
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2182504873294347,
+                    "skript_3": 0.3435714285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.32087525954320395,
+                    "baumbewuchs_braun_anteil_skript_1": 0.18825533727306606
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.004691358024691358,
+                "anteil_wiese_gruen": 0.49502400548696845
+            },
+            "YUN00009": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.46987999512670564,
+                    "skript_2": 0.44834307992202727,
+                    "skript_1_2_schnittmenge": 0.40131883528265105,
+                    "skript_3": 0.39982142857142855
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9401041666666666,
+                    "skript_5": 0.001290580704160951,
+                    "skript_6": 0.6109895833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.25828612329434697,
+                    "skript_3": 0.4080803571428571
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.2941274238227147,
+                    "baumbewuchs_braun_anteil_skript_1": 0.32914127423822714
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0011659807956104253,
+                "anteil_wiese_gruen": 0.4841278006401463
+            },
+            "YUN00010": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.47603557504873295,
+                    "skript_2": 0.4422255726120858,
+                    "skript_1_2_schnittmenge": 0.4092729653996101,
+                    "skript_3": 0.41129464285714284
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9676041666666667,
+                    "skript_5": 0.010089163237311386,
+                    "skript_6": 0.6323958333333334
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2851394980506823,
+                    "skript_3": 0.39348214285714284
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.4136074927333405,
+                    "baumbewuchs_braun_anteil_skript_1": 0.5537732802239208
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.009151806127114769,
+                "anteil_wiese_gruen": 0.45006744398719706
+            },
+            "YUN00011": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5792473806042885,
+                    "skript_2": 0.5670138888888889,
+                    "skript_1_2_schnittmenge": 0.5375609161793372,
+                    "skript_3": 0.5074107142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9255729166666666,
+                    "skript_5": 0.0014734796524919981,
+                    "skript_6": 0.679375
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1835252192982456,
+                    "skript_3": 0.23133928571428572
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.754431376962467,
+                    "baumbewuchs_braun_anteil_skript_1": 0.1872713972201902
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0012551440329218106,
+                "anteil_wiese_gruen": 0.5044924554183814
+            }
+        },
+        "Flugroute 1": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.03973410087719298,
+                    "skript_2": 0.03220181530214425,
+                    "skript_1_2_schnittmenge": 0.024917763157894738,
+                    "skript_3": 0.00013392857142857144
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.020126705653021444,
+                    "skript_3": 0.012410714285714285
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7292321515594542,
+                    "skript_2": 0.7539565058479533,
+                    "skript_1_2_schnittmenge": 0.7051961500974658,
+                    "skript_3": 0.47232142857142856
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.07850420321637427,
+                    "skript_3": 0.09424107142857142
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8404985989278753,
+                    "skript_2": 0.8462003533138401,
+                    "skript_1_2_schnittmenge": 0.8256076388888889,
+                    "skript_3": 0.39375
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.05435093810916179,
+                    "skript_3": 0.066875
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9996954191033138,
+                    "skript_2": 0.999802022417154,
+                    "skript_1_2_schnittmenge": 0.999671052631579,
+                    "skript_3": 0.40236607142857145
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 3.0458089668615984e-06,
+                    "skript_3": 0.0
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9367537768031189,
+                    "skript_2": 0.9361095882066277,
+                    "skript_1_2_schnittmenge": 0.9256441885964912,
+                    "skript_3": 0.7642857142857142
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.02582389132553606,
+                    "skript_3": 0.03709821428571428
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9152549342105263,
+                    "skript_2": 0.9083104897660819,
+                    "skript_1_2_schnittmenge": 0.8926748294346979,
+                    "skript_3": 0.6239285714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.03720303362573099,
+                    "skript_3": 0.05870535714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9199332967836257,
+                    "skript_2": 0.9183555677387915,
+                    "skript_1_2_schnittmenge": 0.907483552631579,
+                    "skript_3": 0.4996875
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.03588876705653021,
+                    "skript_3": 0.056160714285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9509777046783626,
+                    "skript_2": 0.946051108674464,
+                    "skript_1_2_schnittmenge": 0.9389406676413256,
+                    "skript_3": 0.8530803571428571
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.021177509746588694,
+                    "skript_3": 0.036696428571428574
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            }
+        }
+    },
+    "Bilder 09-02-23": {
+        "Flugroute 2": {
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.08653600146198831,
+                    "skript_2": 0.10039138645224172,
+                    "skript_1_2_schnittmenge": 0.05934454191033139,
+                    "skript_3": 0.04973214285714286
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.24713084795321638,
+                    "skript_3": 0.23513392857142856
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.16234923245614036,
+                    "skript_2": 0.17743664717348928,
+                    "skript_1_2_schnittmenge": 0.13255208333333332,
+                    "skript_3": 0.08808035714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.22048915692007798,
+                    "skript_3": 0.21665178571428573
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.10297727826510722,
+                    "skript_2": 0.10936433966861599,
+                    "skript_1_2_schnittmenge": 0.0712567007797271,
+                    "skript_3": 0.08178571428571428
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2187302022417154,
+                    "skript_3": 0.2562946428571429
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.12638127436647173,
+                    "skript_2": 0.13138553849902534,
+                    "skript_1_2_schnittmenge": 0.0913422880116959,
+                    "skript_3": 0.14424107142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.18959247076023392,
+                    "skript_3": 0.24589285714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00009": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.12928545321637427,
+                    "skript_2": 0.1322444566276803,
+                    "skript_1_2_schnittmenge": 0.09228039717348928,
+                    "skript_3": 0.15825892857142856
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.19415661549707602,
+                    "skript_3": 0.2579910714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00011": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.13860105994152047,
+                    "skript_2": 0.14105141325536064,
+                    "skript_1_2_schnittmenge": 0.1008406432748538,
+                    "skript_3": 0.16526785714285713
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2252223440545809,
+                    "skript_3": 0.3000446428571429
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00012": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.10551139132553607,
+                    "skript_2": 0.11514680799220273,
+                    "skript_1_2_schnittmenge": 0.07011756822612086,
+                    "skript_3": 0.12107142857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.19771259746588693,
+                    "skript_3": 0.25892857142857145
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00014": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.10724293372319688,
+                    "skript_2": 0.12268366228070175,
+                    "skript_1_2_schnittmenge": 0.07272325779727096,
+                    "skript_3": 0.1396875
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2231649000974659,
+                    "skript_3": 0.32625
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00016": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.12692647417153996,
+                    "skript_2": 0.14142757066276804,
+                    "skript_1_2_schnittmenge": 0.0967166179337232,
+                    "skript_3": 0.133125
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.19060977095516568,
+                    "skript_3": 0.2704464285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00018": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.14733796296296298,
+                    "skript_2": 0.1596323708576998,
+                    "skript_1_2_schnittmenge": 0.11894188596491229,
+                    "skript_3": 0.15232142857142858
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1849201998050682,
+                    "skript_3": 0.2704464285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00019": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.20892878898635478,
+                    "skript_2": 0.21769462719298247,
+                    "skript_1_2_schnittmenge": 0.1812241106237817,
+                    "skript_3": 0.1850892857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.17824226364522416,
+                    "skript_3": 0.25892857142857145
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            }
+        }
+    },
+    "Bilder 23-03-23": {
+        "Flugroute 2": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.18561464424951268,
+                    "skript_2": 0.2083409478557505,
+                    "skript_1_2_schnittmenge": 0.16782102826510722,
+                    "skript_3": 0.12736607142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9147916666666667,
+                    "skript_5": 0.0,
+                    "skript_6": 0.45630208333333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1577881335282651,
+                    "skript_3": 0.16745535714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.13305625142336597,
+                    "baumbewuchs_braun_anteil_skript_1": 0.18873832839899796
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.2170313214449017
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.11378228557504873,
+                    "skript_2": 0.1272691276803119,
+                    "skript_1_2_schnittmenge": 0.08903356481481481,
+                    "skript_3": 0.04375
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9402604166666667,
+                    "skript_5": 0.001699817101051669,
+                    "skript_6": 0.5636458333333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.20527534113060428,
+                    "skript_3": 0.23816964285714284
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.1502243394449676,
+                    "baumbewuchs_braun_anteil_skript_1": 0.3382263335733673
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 3.429355281207133e-05,
+                "anteil_wiese_gruen": 0.09020461819844536
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.12707267300194933,
+                    "skript_2": 0.1383299829434698,
+                    "skript_1_2_schnittmenge": 0.1052113791423002,
+                    "skript_3": 0.056741071428571425
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.8852604166666667,
+                    "skript_5": 0.0,
+                    "skript_6": 0.41510416666666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.24435611598440546,
+                    "skript_3": 0.28379464285714284
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.014884979702300407,
+                    "baumbewuchs_braun_anteil_skript_1": 0.39565805730423015
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.12252514860539553
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.12380147417153996,
+                    "skript_2": 0.13756700779727096,
+                    "skript_1_2_schnittmenge": 0.1038864522417154,
+                    "skript_3": 0.055535714285714285
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9441666666666667,
+                    "skript_5": 0.0,
+                    "skript_6": 0.7491145833333334
+                },
+                "braun_anteil": {
+                    "skript_1": 0.24081384015594542,
+                    "skript_3": 0.26089285714285715
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.3417365401588703,
+                    "baumbewuchs_braun_anteil_skript_1": 0.32209841129744043
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.13013260173754002
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.22456444931773878,
+                    "skript_2": 0.23773300438596492,
+                    "skript_1_2_schnittmenge": 0.1955196150097466,
+                    "skript_3": 0.08607142857142858
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.82234375,
+                    "skript_5": 4.801097393689986e-05,
+                    "skript_6": 0.6496875
+                },
+                "braun_anteil": {
+                    "skript_1": 0.24260477582846005,
+                    "skript_3": 0.25785714285714284
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.11406675533599342,
+                    "baumbewuchs_braun_anteil_skript_1": 0.5099119640255875
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 1.6003657978966623e-05,
+                "anteil_wiese_gruen": 0.20615454961133972
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.21292184454191032,
+                    "skript_2": 0.23804976851851853,
+                    "skript_1_2_schnittmenge": 0.1827333089668616,
+                    "skript_3": 0.053660714285714284
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9158854166666667,
+                    "skript_5": 0.001186556927297668,
+                    "skript_6": 0.59234375
+                },
+                "braun_anteil": {
+                    "skript_1": 0.23101090399610136,
+                    "skript_3": 0.24044642857142856
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.1076485641171453,
+                    "baumbewuchs_braun_anteil_skript_1": 0.23343758885413704
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0005864197530864197,
+                "anteil_wiese_gruen": 0.21508230452674898
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.23943104288499026,
+                    "skript_2": 0.27098714668615986,
+                    "skript_1_2_schnittmenge": 0.21351577729044835,
+                    "skript_3": 0.06584821428571429
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.97171875,
+                    "skript_5": 0.33573502514860537,
+                    "skript_6": 0.40427083333333336
+                },
+                "braun_anteil": {
+                    "skript_1": 0.21445540935672514,
+                    "skript_3": 0.2002232142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.07696843007986279,
+                    "baumbewuchs_braun_anteil_skript_1": 0.18491718925872327
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.11738225880201189,
+                "anteil_wiese_gruen": 0.10538866026520348
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.12933875487329435,
+                    "skript_2": 0.15682261208576997,
+                    "skript_1_2_schnittmenge": 0.10960495857699805,
+                    "skript_3": 0.04013392857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9550520833333334,
+                    "skript_5": 0.00046524919981710106,
+                    "skript_6": 0.5915625
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1895772417153996,
+                    "skript_3": 0.19223214285714285
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.1207940230135791,
+                    "baumbewuchs_braun_anteil_skript_1": 0.15722310083437857
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 4.11522633744856e-05,
+                "anteil_wiese_gruen": 0.16175925925925927
+            },
+            "YUN00009": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.1164458455165692,
+                    "skript_2": 0.14834764863547759,
+                    "skript_1_2_schnittmenge": 0.09584703947368421,
+                    "skript_3": 0.02111607142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9755729166666667,
+                    "skript_5": 0.0,
+                    "skript_6": 0.48244791666666664
+                },
+                "braun_anteil": {
+                    "skript_1": 0.19772630360623783,
+                    "skript_3": 0.1825
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.01809833965084619,
+                    "baumbewuchs_braun_anteil_skript_1": 0.10821632587688858
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.10914837677183356
+            },
+            "YUN00010": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.10864552875243665,
+                    "skript_2": 0.13241654483430798,
+                    "skript_1_2_schnittmenge": 0.08607303849902534,
+                    "skript_3": 0.030625
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.97125,
+                    "skript_5": 0.0,
+                    "skript_6": 0.5516666666666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.18641873781676413,
+                    "skript_3": 0.19129464285714284
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.2840519090519091,
+                    "baumbewuchs_braun_anteil_skript_1": 0.15905190905190905
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.12210791037951532
+            },
+            "YUN00011": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.13122715643274854,
+                    "skript_2": 0.15108735380116958,
+                    "skript_1_2_schnittmenge": 0.11001157407407407,
+                    "skript_3": 0.04580357142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.7573958333333334,
+                    "skript_5": 0.0,
+                    "skript_6": 0.3581770833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.16326297514619884,
+                    "skript_3": 0.16450892857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.14482189520011002,
+                    "baumbewuchs_braun_anteil_skript_1": 0.06594691239169302
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.11036008230452675
+            }
+        },
+        "Flugroute 1": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5797118664717349,
+                    "skript_2": 0.5579404239766081,
+                    "skript_1_2_schnittmenge": 0.5388584307992202,
+                    "skript_3": 0.4471428571428571
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.7594791666666667,
+                    "skript_5": 0.0,
+                    "skript_6": 0.6205208333333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.09141843323586744,
+                    "skript_3": 0.23892857142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.008092168426827596,
+                    "baumbewuchs_braun_anteil_skript_1": 0.20429296392813057
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.4961705532693187
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7162737573099415,
+                    "skript_2": 0.7025097465886939,
+                    "skript_1_2_schnittmenge": 0.6878700657894737,
+                    "skript_3": 0.6199553571428571
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.8153125,
+                    "skript_5": 0.0,
+                    "skript_6": 0.3857291666666667
+                },
+                "braun_anteil": {
+                    "skript_1": 0.07483248050682262,
+                    "skript_3": 0.13508928571428572
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.8436182445381372,
+                    "baumbewuchs_braun_anteil_skript_1": 0.01526766321706912
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.7072473708276178
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8413285818713451,
+                    "skript_2": 0.8199287280701755,
+                    "skript_1_2_schnittmenge": 0.8119045443469786,
+                    "skript_3": 0.7791517857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.80375,
+                    "skript_5": 0.0,
+                    "skript_6": 0.16619791666666667
+                },
+                "braun_anteil": {
+                    "skript_1": 0.04428149366471735,
+                    "skript_3": 0.0765625
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.999611197511664,
+                    "baumbewuchs_braun_anteil_skript_1": 0.0007776049766718507
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.8137677183356196
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9817312378167641,
+                    "skript_2": 0.9416164108187135,
+                    "skript_1_2_schnittmenge": 0.9414519371345029,
+                    "skript_3": 0.9477232142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9534895833333333,
+                    "skript_5": 0.0,
+                    "skript_6": 0.48369791666666667
+                },
+                "braun_anteil": {
+                    "skript_1": 0.02587414717348928,
+                    "skript_3": 0.16357142857142856
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.9995630086852024,
+                    "baumbewuchs_braun_anteil_skript_1": 0.0002731195717485115
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.9725194330132602
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6264909234892787,
+                    "skript_2": 0.44061433966861596,
+                    "skript_1_2_schnittmenge": 0.43173276072124755,
+                    "skript_3": 0.47
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9285416666666667,
+                    "skript_5": 0.0,
+                    "skript_6": 0.374375
+                },
+                "braun_anteil": {
+                    "skript_1": 0.3420793737816764,
+                    "skript_3": 0.7360714285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.3856293470944582,
+                    "baumbewuchs_braun_anteil_skript_1": 0.45473412609378505
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.5200091449474166
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.597150645711501,
+                    "skript_2": 0.44164686890838206,
+                    "skript_1_2_schnittmenge": 0.4156935307017544,
+                    "skript_3": 0.3400892857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9644270833333334,
+                    "skript_5": 0.0,
+                    "skript_6": 0.50640625
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2768046418128655,
+                    "skript_3": 0.6099107142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.543176540476319,
+                    "baumbewuchs_braun_anteil_skript_1": 0.34778851865853
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.5240112025605853
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6926809210526316,
+                    "skript_2": 0.6159630847953217,
+                    "skript_1_2_schnittmenge": 0.603421966374269,
+                    "skript_3": 0.5723214285714285
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9984895833333334,
+                    "skript_5": 0.7694158664837677,
+                    "skript_6": 0.62421875
+                },
+                "braun_anteil": {
+                    "skript_1": 0.08181195175438596,
+                    "skript_3": 0.19361607142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.061759949924364926,
+                    "baumbewuchs_braun_anteil_skript_1": 0.2565333055135361
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.5394341563786008,
+                "anteil_wiese_gruen": 0.19970278920896206
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9376248781676413,
+                    "skript_2": 0.8806012426900585,
+                    "skript_1_2_schnittmenge": 0.8699865984405458,
+                    "skript_3": 0.9178125
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9894270833333333,
+                    "skript_5": 0.0,
+                    "skript_6": 0.5897395833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.0428453947368421,
+                    "skript_3": 0.1653125
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.9749960520082118,
+                    "baumbewuchs_braun_anteil_skript_1": 0.03858503974311733
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.0,
+                "anteil_wiese_gruen": 0.9287094192958391
+            }
+        }
+    },
+    "Bilder 27-04-22": {
+        "Flugroute 2": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.499681712962963,
+                    "skript_2": 0.516582906920078,
+                    "skript_1_2_schnittmenge": 0.4840430068226121,
+                    "skript_3": 0.4622767857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.70453125,
+                    "skript_5": 0.40585048010973934,
+                    "skript_6": 0.3994270833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.07584216617933723,
+                    "skript_3": 0.12160714285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.9744954535373697,
+                    "baumbewuchs_braun_anteil_skript_1": 0.0008131884379389369
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.37328417924096935,
+                "anteil_wiese_gruen": 0.07551554641060813
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6999664961013645,
+                    "skript_2": 0.7104212353801169,
+                    "skript_1_2_schnittmenge": 0.6898726851851852,
+                    "skript_3": 0.6827678571428571
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.7859895833333334,
+                    "skript_5": 0.5751863283036123,
+                    "skript_6": 0.57828125
+                },
+                "braun_anteil": {
+                    "skript_1": 0.03249269005847953,
+                    "skript_3": 0.08991071428571429
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.8741634086541648,
+                    "baumbewuchs_braun_anteil_skript_1": 0.01669869458617719
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.5332418838591678,
+                "anteil_wiese_gruen": 0.06587334247828075
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5598897417153996,
+                    "skript_2": 0.5740040204678363,
+                    "skript_1_2_schnittmenge": 0.5479212353801169,
+                    "skript_3": 0.515
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.7355208333333333,
+                    "skript_5": 0.5321902149062643,
+                    "skript_6": 0.5277604166666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.04715369152046783,
+                    "skript_3": 0.07138392857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.9095737147712789,
+                    "baumbewuchs_braun_anteil_skript_1": 0.021951564934145306
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.5044124371284865,
+                "anteil_wiese_gruen": 0.06021147690900777
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5353831627680312,
+                    "skript_2": 0.545697794834308,
+                    "skript_1_2_schnittmenge": 0.521995309454191,
+                    "skript_3": 0.48245535714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.4752604166666667,
+                    "skript_5": 0.47375400091449477,
+                    "skript_6": 0.46427083333333335
+                },
+                "braun_anteil": {
+                    "skript_1": 0.057101303606237816,
+                    "skript_3": 0.05665178571428572
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.5266849315068494,
+                    "baumbewuchs_braun_anteil_skript_1": 0.02652054794520548
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.44965363511659806,
+                "anteil_wiese_gruen": 0.058393918609967996
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5136376096491229,
+                    "skript_2": 0.5234009502923976,
+                    "skript_1_2_schnittmenge": 0.49825779727095515,
+                    "skript_3": 0.47330357142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.5353125,
+                    "skript_5": 0.5242329675354367,
+                    "skript_6": 0.5113020833333334
+                },
+                "braun_anteil": {
+                    "skript_1": 0.06549250730994152,
+                    "skript_3": 0.07973214285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.5297723292469352,
+                    "baumbewuchs_braun_anteil_skript_1": 0.053901537264059156
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.4357315957933242,
+                "anteil_wiese_gruen": 0.051901005944215824
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7024366471734893,
+                    "skript_2": 0.7117522538986355,
+                    "skript_1_2_schnittmenge": 0.6906067251461988,
+                    "skript_3": 0.6777232142857142
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.77328125,
+                    "skript_5": 0.8018118427069044,
+                    "skript_6": 0.7877604166666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.03706597222222222,
+                    "skript_3": 0.11325892857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.9203206034889203,
+                    "baumbewuchs_braun_anteil_skript_1": 0.015962820771873106
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.6582658893461363,
+                "anteil_wiese_gruen": 0.01990512117055327
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.521931347465887,
+                    "skript_2": 0.5370690180311891,
+                    "skript_1_2_schnittmenge": 0.5076327972709551,
+                    "skript_3": 0.4823660714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.615,
+                    "skript_5": 0.6291975308641975,
+                    "skript_6": 0.6223958333333334
+                },
+                "braun_anteil": {
+                    "skript_1": 0.05658960769980507,
+                    "skript_3": 0.09705357142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.20672425474254744,
+                    "baumbewuchs_braun_anteil_skript_1": 0.08528116531165311
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.46041266575217193,
+                "anteil_wiese_gruen": 0.03957133058984911
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5431712962962963,
+                    "skript_2": 0.5560063352826511,
+                    "skript_1_2_schnittmenge": 0.5292367202729045,
+                    "skript_3": 0.5036160714285715
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.77390625,
+                    "skript_5": 0.7660402377686328,
+                    "skript_6": 0.74578125
+                },
+                "braun_anteil": {
+                    "skript_1": 0.05205744395711501,
+                    "skript_3": 0.10910714285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.9061175045427013,
+                    "baumbewuchs_braun_anteil_skript_1": 0.03102496803284205
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.5243998628257888,
+                "anteil_wiese_gruen": 0.016911294010059443
+            },
+            "YUN00009": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.4504690545808967,
+                    "skript_2": 0.4376842714424951,
+                    "skript_1_2_schnittmenge": 0.42480659113060426,
+                    "skript_3": 0.4042857142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.65546875,
+                    "skript_5": 0.6660150891632373,
+                    "skript_6": 0.6510416666666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.055360623781676416,
+                    "skript_3": 0.08964285714285715
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.6274930472785062,
+                    "baumbewuchs_braun_anteil_skript_1": 0.023520063567739374
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.39323273891175126,
+                "anteil_wiese_gruen": 0.0061271147690900776
+            },
+            "YUN00010": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.4260035940545809,
+                    "skript_2": 0.4455637792397661,
+                    "skript_1_2_schnittmenge": 0.4087551778752437,
+                    "skript_3": 0.35825892857142855
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.44494791666666667,
+                    "skript_5": 0.4784236396890718,
+                    "skript_6": 0.45557291666666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.07064144736842105,
+                    "skript_3": 0.06696428571428571
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.32833899098677277,
+                    "baumbewuchs_braun_anteil_skript_1": 0.05407936322135081
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.20441586648376772,
+                "anteil_wiese_gruen": 0.050716735253772294
+            },
+            "YUN00011": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.4928453947368421,
+                    "skript_2": 0.49615466617933723,
+                    "skript_1_2_schnittmenge": 0.4805083455165692,
+                    "skript_3": 0.35116071428571427
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.6234895833333334,
+                    "skript_5": 0.6864083219021491,
+                    "skript_6": 0.6509375
+                },
+                "braun_anteil": {
+                    "skript_1": 0.03686951754385965,
+                    "skript_3": 0.04285714285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.857656002004845,
+                    "baumbewuchs_braun_anteil_skript_1": 0.008520591429287445
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.40774577046181987,
+                "anteil_wiese_gruen": 0.020628715134887975
+            }
+        },
+        "Flugroute 1": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.32227400097465886,
+                    "skript_2": 0.4307200292397661,
+                    "skript_1_2_schnittmenge": 0.27234557748538013,
+                    "skript_3": 0.0008035714285714286
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.03092409844054581,
+                    "skript_3": 0.005267857142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8285285696881092,
+                    "skript_2": 0.7933129264132553,
+                    "skript_1_2_schnittmenge": 0.7626172636452242,
+                    "skript_3": 0.2109375
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.042735745614035085,
+                    "skript_3": 0.0471875
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8811038011695906,
+                    "skript_2": 0.8135249147173489,
+                    "skript_1_2_schnittmenge": 0.7976851851851852,
+                    "skript_3": 0.108125
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.060297880116959066,
+                    "skript_3": 0.08410714285714285
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9220607943469785,
+                    "skript_2": 0.8196561281676413,
+                    "skript_1_2_schnittmenge": 0.8174555311890839,
+                    "skript_3": 0.7562053571428572
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.08826297514619882,
+                    "skript_3": 0.3093303571428571
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9525325901559454,
+                    "skript_2": 0.9156463206627681,
+                    "skript_1_2_schnittmenge": 0.9125121832358675,
+                    "skript_3": 0.9699553571428572
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.0440713328460039,
+                    "skript_3": 0.5719196428571428
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8760919225146199,
+                    "skript_2": 0.8723394858674464,
+                    "skript_1_2_schnittmenge": 0.8602293494152047,
+                    "skript_3": 0.8672321428571429
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.04664504142300195,
+                    "skript_3": 0.2986607142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9287844176413256,
+                    "skript_2": 0.8985182139376219,
+                    "skript_1_2_schnittmenge": 0.892626096491228,
+                    "skript_3": 0.9455357142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.05633680555555556,
+                    "skript_3": 0.5875
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9440088937621832,
+                    "skript_2": 0.9261299951267057,
+                    "skript_1_2_schnittmenge": 0.9221354166666667,
+                    "skript_3": 0.9470089285714286
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.03222313596491228,
+                    "skript_3": 0.2382142857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            }
+        }
+    },
+    "Bilder 16-07-22": {
+        "Flugroute 2": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6962277655945419,
+                    "skript_2": 0.6882644980506822,
+                    "skript_1_2_schnittmenge": 0.6636208576998051,
+                    "skript_3": 0.7079017857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.6617708333333333,
+                    "skript_5": 0.7163728852309099,
+                    "skript_6": 0.6884375
+                },
+                "braun_anteil": {
+                    "skript_1": 0.08206932261208577,
+                    "skript_3": 0.20258928571428572
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.9616716511884149,
+                    "baumbewuchs_braun_anteil_skript_1": 0.006138832047851409
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.6038488797439415,
+                "anteil_wiese_gruen": 0.0763625971650663
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7959901924951267,
+                    "skript_2": 0.7779574805068226,
+                    "skript_1_2_schnittmenge": 0.7572688230994152,
+                    "skript_3": 0.8569196428571428
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.8416666666666667,
+                    "skript_5": 0.8301028806584362,
+                    "skript_6": 0.79875
+                },
+                "braun_anteil": {
+                    "skript_1": 0.04418402777777778,
+                    "skript_3": 0.13361607142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.9516707920792079,
+                    "baumbewuchs_braun_anteil_skript_1": 0.0005569306930693069
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.7003566529492455,
+                "anteil_wiese_gruen": 0.0623856881572931
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7393823099415204,
+                    "skript_2": 0.7344191642300195,
+                    "skript_1_2_schnittmenge": 0.7100511695906433,
+                    "skript_3": 0.7544642857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.79140625,
+                    "skript_5": 0.7766941015089164,
+                    "skript_6": 0.75921875
+                },
+                "braun_anteil": {
+                    "skript_1": 0.06795961257309942,
+                    "skript_3": 0.18017857142857144
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.943928923988154,
+                    "baumbewuchs_braun_anteil_skript_1": 0.014741691345837447
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.69559670781893,
+                "anteil_wiese_gruen": 0.05841906721536351
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.711729410331384,
+                    "skript_2": 0.7044544956140351,
+                    "skript_1_2_schnittmenge": 0.6792397660818713,
+                    "skript_3": 0.7184821428571428
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.6889583333333333,
+                    "skript_5": 0.6729686785550983,
+                    "skript_6": 0.6530729166666667
+                },
+                "braun_anteil": {
+                    "skript_1": 0.0805479410331384,
+                    "skript_3": 0.18183035714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.7329906259449652,
+                    "baumbewuchs_braun_anteil_skript_1": 0.05284245539764137
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.6055429812528578,
+                "anteil_wiese_gruen": 0.08010631001371742
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6939890960038987,
+                    "skript_2": 0.6855278386939572,
+                    "skript_1_2_schnittmenge": 0.6608141447368421,
+                    "skript_3": 0.7014285714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.5609375,
+                    "skript_5": 0.6161282578875171,
+                    "skript_6": 0.5865104166666667
+                },
+                "braun_anteil": {
+                    "skript_1": 0.08902747319688109,
+                    "skript_3": 0.1886607142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.6627669452181987,
+                    "baumbewuchs_braun_anteil_skript_1": 0.09099350046425256
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.5517855509830818,
+                "anteil_wiese_gruen": 0.10707018747142204
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8104623538011696,
+                    "skript_2": 0.7903402168615984,
+                    "skript_1_2_schnittmenge": 0.7712018762183236,
+                    "skript_3": 0.8506696428571429
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.7991666666666667,
+                    "skript_5": 0.8058836305441244,
+                    "skript_6": 0.7898958333333334
+                },
+                "braun_anteil": {
+                    "skript_1": 0.039373172514619886,
+                    "skript_3": 0.1153125
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.9393899895724713,
+                    "baumbewuchs_braun_anteil_skript_1": 0.002997914494264859
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.7393289894833105,
+                "anteil_wiese_gruen": 0.07257087334247828
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6912783260233918,
+                    "skript_2": 0.6646274975633528,
+                    "skript_1_2_schnittmenge": 0.6370537889863548,
+                    "skript_3": 0.7131696428571429
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.62359375,
+                    "skript_5": 0.6770839048925469,
+                    "skript_6": 0.6508854166666667
+                },
+                "braun_anteil": {
+                    "skript_1": 0.07288773148148148,
+                    "skript_3": 0.134375
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.39396976530527017,
+                    "baumbewuchs_braun_anteil_skript_1": 0.06790278125783011
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.588691129401006,
+                "anteil_wiese_gruen": 0.08906721536351166
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6928636695906433,
+                    "skript_2": 0.6560032894736842,
+                    "skript_1_2_schnittmenge": 0.6273132919103314,
+                    "skript_3": 0.7595982142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.7399479166666667,
+                    "skript_5": 0.7586545496113397,
+                    "skript_6": 0.7450520833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.05630634746588694,
+                    "skript_3": 0.0996875
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.8146688252270008,
+                    "baumbewuchs_braun_anteil_skript_1": 0.016259590342788767
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.6134705075445817,
+                "anteil_wiese_gruen": 0.07209647919524463
+            },
+            "YUN00009": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.58119669834308,
+                    "skript_2": 0.5527701632553607,
+                    "skript_1_2_schnittmenge": 0.5160118177387915,
+                    "skript_3": 0.6564732142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.5792708333333333,
+                    "skript_5": 0.5841026520347508,
+                    "skript_6": 0.5753645833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.06499299463937622,
+                    "skript_3": 0.11607142857142858
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.3862614637655098,
+                    "baumbewuchs_braun_anteil_skript_1": 0.007103039021758677
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.3998262459990855,
+                "anteil_wiese_gruen": 0.12486511202560585
+            },
+            "YUN00010": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5069413986354776,
+                    "skript_2": 0.48151346247563354,
+                    "skript_1_2_schnittmenge": 0.44660696881091616,
+                    "skript_3": 0.6184821428571429
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.4984375,
+                    "skript_5": 0.4901611796982167,
+                    "skript_6": 0.4815625
+                },
+                "braun_anteil": {
+                    "skript_1": 0.07409387183235867,
+                    "skript_3": 0.1379017857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.5211076280041798,
+                    "baumbewuchs_braun_anteil_skript_1": 0.046917450365726227
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.2882475994513032,
+                "anteil_wiese_gruen": 0.16113054412437128
+            },
+            "YUN00011": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5103009259259259,
+                    "skript_2": 0.48661671539961016,
+                    "skript_1_2_schnittmenge": 0.446797331871345,
+                    "skript_3": 0.6024553571428571
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.51453125,
+                    "skript_5": 0.5080909922267947,
+                    "skript_6": 0.5026041666666666
+                },
+                "braun_anteil": {
+                    "skript_1": 0.06869517543859649,
+                    "skript_3": 0.13410714285714287
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.6844822350440328,
+                    "baumbewuchs_braun_anteil_skript_1": 0.033707865168539325
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.2886248285322359,
+                "anteil_wiese_gruen": 0.1790169181527206
+            }
+        },
+        "Flugroute 1": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.540095029239766,
+                    "skript_2": 0.505666727582846,
+                    "skript_1_2_schnittmenge": 0.45255086500974656,
+                    "skript_3": 0.3191517857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.56828125,
+                    "skript_5": 0.5635711019661637,
+                    "skript_6": 0.5600520833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1168067738791423,
+                    "skript_3": 0.16933035714285713
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.7815049033085877,
+                    "baumbewuchs_braun_anteil_skript_1": 0.021354596278984513
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.4052629172382259,
+                "anteil_wiese_gruen": 0.16250914494741656
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5137624878167641,
+                    "skript_2": 0.5589501096491228,
+                    "skript_1_2_schnittmenge": 0.4697520711500975,
+                    "skript_3": 0.33401785714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.48604166666666665,
+                    "skript_5": 0.4756938728852309,
+                    "skript_6": 0.47682291666666665
+                },
+                "braun_anteil": {
+                    "skript_1": 0.06354471247563352,
+                    "skript_3": 0.10504464285714285
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.29232747535362197,
+                    "baumbewuchs_braun_anteil_skript_1": 0.02957565366480926
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.36464334705075446,
+                "anteil_wiese_gruen": 0.15611682670324645
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.40550073099415207,
+                    "skript_2": 0.5006655092592592,
+                    "skript_1_2_schnittmenge": 0.373833455165692,
+                    "skript_3": 0.25379464285714287
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.3101041666666667,
+                    "skript_5": 0.3045816186556927,
+                    "skript_6": 0.3017708333333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.06117659600389864,
+                    "skript_3": 0.10357142857142858
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.07809875713805844,
+                    "baumbewuchs_braun_anteil_skript_1": 0.006886126973463218
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.23096936442615454,
+                "anteil_wiese_gruen": 0.16340649291266576
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.1829845882066277,
+                    "skript_2": 0.2237679702729045,
+                    "skript_1_2_schnittmenge": 0.17093384502923978,
+                    "skript_3": 0.0715625
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.07637213693957115,
+                    "skript_3": 0.07116071428571429
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.21387822855750488,
+                    "skript_2": 0.28659691764132555,
+                    "skript_1_2_schnittmenge": 0.1796875,
+                    "skript_3": 0.09763392857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.07255208333333334,
+                    "skript_5": 0.07004686785550983,
+                    "skript_6": 0.46682291666666664
+                },
+                "braun_anteil": {
+                    "skript_1": 0.08916453460038987,
+                    "skript_3": 0.1090625
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.312275664034458,
+                    "baumbewuchs_braun_anteil_skript_1": 0.04379038047379756
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.031128257887517146,
+                "anteil_wiese_gruen": 0.14102423411065387
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.34095547027290446,
+                    "skript_2": 0.4032955653021443,
+                    "skript_1_2_schnittmenge": 0.30114065545808966,
+                    "skript_3": 0.21544642857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.28979166666666667,
+                    "skript_5": 0.27909693644261546,
+                    "skript_6": 0.27609375
+                },
+                "braun_anteil": {
+                    "skript_1": 0.057783564814814815,
+                    "skript_3": 0.08535714285714285
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.49245147375988496,
+                    "baumbewuchs_braun_anteil_skript_1": 0.021207764198418404
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.17659807956104254,
+                "anteil_wiese_gruen": 0.15796639231824416
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.35652412280701756,
+                    "skript_2": 0.3943820053606238,
+                    "skript_1_2_schnittmenge": 0.29108796296296297,
+                    "skript_3": 0.17589285714285716
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.17166666666666666,
+                    "skript_5": 0.16451760402377685,
+                    "skript_6": 0.16552083333333334
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1324211135477583,
+                    "skript_3": 0.25660714285714287
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.6416868932038835,
+                    "baumbewuchs_braun_anteil_skript_1": 0.058859223300970875
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.1257270233196159,
+                "anteil_wiese_gruen": 0.2586294010059442
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.42091861598440544,
+                    "skript_2": 0.4936418737816764,
+                    "skript_1_2_schnittmenge": 0.3690225999025341,
+                    "skript_3": 0.12433035714285715
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.14427083333333332,
+                    "skript_5": 0.13642089620484682,
+                    "skript_6": 0.20671875
+                },
+                "braun_anteil": {
+                    "skript_1": 0.08813200536062378,
+                    "skript_3": 0.13870535714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.376173285198556,
+                    "baumbewuchs_braun_anteil_skript_1": 0.16064981949458484
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.09750800182898949,
+                "anteil_wiese_gruen": 0.365595564700503
+            }
+        }
+    },
+    "Bilder 09-11-23": {
+        "Flugroute 1": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.41677022417153997,
+                    "skript_2": 0.46626918859649125,
+                    "skript_1_2_schnittmenge": 0.3376066033138402,
+                    "skript_3": 0.15160714285714286
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.12645833333333334,
+                    "skript_5": 1.0,
+                    "skript_6": 0.5148958333333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.19786945662768032,
+                    "skript_3": 0.33901785714285715
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.49341021416803954,
+                    "baumbewuchs_braun_anteil_skript_1": 0.08978583196046129
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.4495679012345679,
+                "anteil_wiese_gruen": 0.0
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5963876705653022,
+                    "skript_2": 0.5598135964912281,
+                    "skript_1_2_schnittmenge": 0.5269508406432749,
+                    "skript_3": 0.3434375
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9958333333333333,
+                    "skript_5": 0.9997359396433471,
+                    "skript_6": 0.6192708333333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1763310185185185,
+                    "skript_3": 0.32151785714285713
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.7609309623430962,
+                    "baumbewuchs_braun_anteil_skript_1": 0.19147489539748955
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.581953589391861,
+                "anteil_wiese_gruen": 4.801097393689986e-05
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6228831627680312,
+                    "skript_2": 0.5361217714424952,
+                    "skript_1_2_schnittmenge": 0.4851653874269006,
+                    "skript_3": 0.22816964285714286
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9996875,
+                    "skript_5": 0.9958984910836762,
+                    "skript_6": 0.7464583333333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2294742933723197,
+                    "skript_3": 0.6125892857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.631812024591018,
+                    "baumbewuchs_braun_anteil_skript_1": 0.19782223611545274
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.6142821216278006,
+                "anteil_wiese_gruen": 0.0025125743026977593
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6412905092592592,
+                    "skript_2": 0.6673611111111111,
+                    "skript_1_2_schnittmenge": 0.5585800438596491,
+                    "skript_3": 0.275625
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.9926041666666666,
+                    "skript_5": 0.9963763145861911,
+                    "skript_6": 0.7741666666666667
+                },
+                "braun_anteil": {
+                    "skript_1": 0.11623568469785575,
+                    "skript_3": 0.4080357142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.6664917619897156,
+                    "baumbewuchs_braun_anteil_skript_1": 0.08531850141672788
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.66407178783722,
+                "anteil_wiese_gruen": 0.002704618198445359
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8131335282651072,
+                    "skript_2": 0.8014711257309941,
+                    "skript_1_2_schnittmenge": 0.7835465399610136,
+                    "skript_3": 0.5604910714285715
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.0,
+                    "skript_5": 1.0,
+                    "skript_6": 0.4398958333333333
+                },
+                "braun_anteil": {},
+                "schnittmengen": {},
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.7961522633744856,
+                "anteil_wiese_gruen": 0.0
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.4632401315789474,
+                    "skript_2": 0.5231755604288499,
+                    "skript_1_2_schnittmenge": 0.40226912768031187,
+                    "skript_3": 0.16473214285714285
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.0,
+                    "skript_5": 1.0,
+                    "skript_6": 0.24041666666666667
+                },
+                "braun_anteil": {},
+                "schnittmengen": {},
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.4764849108367627,
+                "anteil_wiese_gruen": 0.0
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {},
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.0,
+                    "skript_5": 0.9975537265660722,
+                    "skript_6": 0.87296875
+                },
+                "braun_anteil": {},
+                "schnittmengen": {},
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.6363317329675354,
+                "anteil_wiese_gruen": 0.0018164151806127115
+            }
+        },
+        "Flugroute 2": {
+            "YUN00001": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.30718354044834306,
+                    "skript_2": 0.3307322124756335,
+                    "skript_1_2_schnittmenge": 0.2589942738791423,
+                    "skript_3": 0.08616071428571428
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.24309515107212476,
+                    "skript_3": 0.2523660714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00002": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.3999573586744639,
+                    "skript_2": 0.39854258040935675,
+                    "skript_1_2_schnittmenge": 0.33988639132553605,
+                    "skript_3": 0.16852678571428573
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2617217958089669,
+                    "skript_3": 0.3063839285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00003": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.34584856237816763,
+                    "skript_2": 0.3435779117933723,
+                    "skript_1_2_schnittmenge": 0.28105506822612086,
+                    "skript_3": 0.17111607142857144
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.27567921539961016,
+                    "skript_3": 0.29428571428571426
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00004": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.364568104288499,
+                    "skript_2": 0.35534387183235866,
+                    "skript_1_2_schnittmenge": 0.2983826754385965,
+                    "skript_3": 0.18232142857142858
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2826678240740741,
+                    "skript_3": 0.30544642857142856
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00005": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.37958241959064326,
+                    "skript_2": 0.37076480263157896,
+                    "skript_1_2_schnittmenge": 0.313567556042885,
+                    "skript_3": 0.1621875
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2626477217348928,
+                    "skript_3": 0.2836160714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00006": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.4193043372319688,
+                    "skript_2": 0.38874725877192984,
+                    "skript_1_2_schnittmenge": 0.3407270346003899,
+                    "skript_3": 0.18580357142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.2678271198830409,
+                    "skript_3": 0.3036607142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00007": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.28564662524366474,
+                    "skript_2": 0.28162615740740743,
+                    "skript_1_2_schnittmenge": 0.23259624756335281,
+                    "skript_3": 0.09973214285714285
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.33257340399610136,
+                    "skript_3": 0.313125
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00008": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.3084962841130604,
+                    "skript_2": 0.29107730263157894,
+                    "skript_1_2_schnittmenge": 0.2540539717348928,
+                    "skript_3": 0.13392857142857142
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.3605659113060429,
+                    "skript_3": 0.3436160714285714
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00009": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.25776985867446395,
+                    "skript_2": 0.24414900097465886,
+                    "skript_1_2_schnittmenge": 0.20657590155945418,
+                    "skript_3": 0.1090625
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.4163377192982456,
+                    "skript_3": 0.36544642857142856
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00010": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.3249040570175439,
+                    "skript_2": 0.31915813840155943,
+                    "skript_1_2_schnittmenge": 0.27182322124756336,
+                    "skript_3": 0.1653125
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.30400676169590646,
+                    "skript_3": 0.29825892857142855
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "YUN00011": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.34586226851851853,
+                    "skript_2": 0.3382873416179337,
+                    "skript_1_2_schnittmenge": 0.29521503411306044,
+                    "skript_3": 0.16035714285714286
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.33280793128654973,
+                    "skript_3": 0.28566964285714286
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            }
+        }
+    },
+    "Kalibrierungsbilder": {
+        "Flugroute 1": {
+            "bild1": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.9972789115646259,
+                    "skript_2": 1.0,
+                    "skript_1_2_schnittmenge": 0.9972789115646259,
+                    "skript_3": 0.0
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.0,
+                    "skript_3": 0.0
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "bild11": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.540095029239766,
+                    "skript_2": 0.505666727582846,
+                    "skript_1_2_schnittmenge": 0.45255086500974656,
+                    "skript_3": 0.3191517857142857
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.56828125,
+                    "skript_5": 0.5635711019661637,
+                    "skript_6": 0.5600520833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1168067738791423,
+                    "skript_3": 0.16933035714285713
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.7815049033085877,
+                    "baumbewuchs_braun_anteil_skript_1": 0.021354596278984513
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.4052629172382259,
+                "anteil_wiese_gruen": 0.16250914494741656
+            },
+            "bild12": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7046829312865497,
+                    "skript_2": 0.6780397173489279,
+                    "skript_1_2_schnittmenge": 0.648978131091618,
+                    "skript_3": 0.6559821428571428
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.8233333333333334,
+                    "skript_5": 0.8100845907636031,
+                    "skript_6": 0.7878645833333333
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1123461866471735,
+                    "skript_3": 0.22950892857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.7718876518218624,
+                    "baumbewuchs_braun_anteil_skript_1": 0.1107667004048583
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.6182510288065843,
+                "anteil_wiese_gruen": 0.05297439414723366
+            },
+            "bild13": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.17095336076817558,
+                    "skript_2": 0.1611454046639232,
+                    "skript_1_2_schnittmenge": 0.1611454046639232,
+                    "skript_3": 0.0
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.41875,
+                    "skript_5": 0.40555555555555556,
+                    "skript_6": 0.4
+                },
+                "braun_anteil": {
+                    "skript_1": 0.487962962962963,
+                    "skript_3": 0.0
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.25,
+                    "baumbewuchs_braun_anteil_skript_1": 0.75
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.004371284865112026,
+                "anteil_wiese_gruen": 0.23657407407407408
+            },
+            "bild14": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5653417397660818,
+                    "skript_2": 0.46455287524366473,
+                    "skript_1_2_schnittmenge": 0.4183677509746589,
+                    "skript_3": 0.08629464285714286
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": 0.16223958333333333,
+                    "skript_5": 0.20541609510745312,
+                    "skript_6": 0.20229166666666668
+                },
+                "braun_anteil": {
+                    "skript_1": 0.12870979532163743,
+                    "skript_3": 0.23861607142857144
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": 0.6170144462279293,
+                    "baumbewuchs_braun_anteil_skript_1": 0.15409309791332262
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": 0.08544924554183814,
+                "anteil_wiese_gruen": 0.5443484224965707
+            },
+            "bild2": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8964285714285715,
+                    "skript_2": 0.9573507180650038,
+                    "skript_1_2_schnittmenge": 0.8964285714285715,
+                    "skript_3": 0.0
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.0,
+                    "skript_3": 0.0
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "bild3": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.8981481481481481,
+                    "skript_2": 0.9049508692365835,
+                    "skript_1_2_schnittmenge": 0.8981481481481481,
+                    "skript_3": 0.0
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.0,
+                    "skript_3": 0.0
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "bild4": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.6939890960038987,
+                    "skript_2": 0.6855278386939572,
+                    "skript_1_2_schnittmenge": 0.6608141447368421,
+                    "skript_3": 0.7014285714285714
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.08902747319688109,
+                    "skript_3": 0.1886607142857143
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "bild5": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.2503868177387914,
+                    "skript_2": 0.19611050194931773,
+                    "skript_1_2_schnittmenge": 0.16954038742690059,
+                    "skript_3": 0.2686607142857143
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.1439723440545809,
+                    "skript_3": 0.10669642857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "bild6": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.5016250358886017,
+                    "skript_2": 0.5013278782658628,
+                    "skript_1_2_schnittmenge": 0.5013278782658628,
+                    "skript_3": 0.007605042016806723
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.4337912718920471,
+                    "skript_3": 0.4234033613445378
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            },
+            "bild7": {
+                "gr\u00fcn_anteil": {
+                    "skript_1": 0.7024366471734893,
+                    "skript_2": 0.7117522538986355,
+                    "skript_1_2_schnittmenge": 0.6906067251461988,
+                    "skript_3": 0.6777232142857142
+                },
+                "baumbewuchs_anteil": {
+                    "skript_4": null,
+                    "skript_5": null,
+                    "skript_6": null
+                },
+                "braun_anteil": {
+                    "skript_1": 0.03706597222222222,
+                    "skript_3": 0.11325892857142857
+                },
+                "schnittmengen": {
+                    "baumbewuchs_gr\u00fcn_anteil_skript_1": null,
+                    "baumbewuchs_braun_anteil_skript_1": null
+                },
+                "temperature_data": {},
+                "anteil_wald_gruen": null,
+                "anteil_wiese_gruen": null
+            }
+        }
+    }
+}
