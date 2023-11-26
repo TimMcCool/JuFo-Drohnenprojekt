@@ -14,4 +14,5 @@
 - **Ordner: Outputs**
   
   Enthält pro Aufnahmedatum und Flugroute eine csv-Datei. Die csv-Datei enthält die Auswertungsergebnisse für alle Bilder, die am jeweiligen Datum auf der jeweiligen Flugroute aufgenommen wurden, inklusive Mittelwerten und Standardabweichungen.
+  
   Beispielsweise enthält die Datei Outputs/Bilder 16-07-22_Flugroute 1.csv die Bilder, die am 16.07.22 auf Flugroute 1 aufgenommen wurden.
