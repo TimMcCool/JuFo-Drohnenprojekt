@@ -9,7 +9,7 @@
     Enthält alle Bilder, die zum Kalibrieren der Skripte verwendet wurden.
   - **Unterordner: Eingabebilder**
     
-    Enthält Bildern, die ausgewertet wurden. Die Bilder sind basierend auf Aufnahmedatum und Flugroute in weitere Unterordner eingeteilt.
+    Enthält alle Bilder, die ausgewertet wurden. Die Bilder sind basierend auf Aufnahmedatum und Flugroute in weitere Unterordner eingeteilt.
     Die Bilder sind basierend auf der Position, an der sie aufgenommen wurden, benannt. Das Bild /Bilder/Eingabebilder/Bilder 29-08-22/Flugroute 1/YUN00001.jpg wurde beispielsweise auf Position 1 aufgenommen.
 - **Ordner: Outputs**
   
