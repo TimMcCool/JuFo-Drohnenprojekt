@@ -1,5 +1,7 @@
-# Filter Pixel, bei denen das RGB-Farbtripel in einem von mehreren festgelegten Bereichen liegen
-# Verwendet zur Bestimmung von Grünanteil und Braunanteil
+# Dient zur Auswertung von Luftbildern
+# Vom Skript ermittelte Parameter: Grünanteil und Braunanteil
+# Funktionsweise: Filter Pixel, bei denen das HSV-Farbtripel in einem von mehreren festgelegten Bereichen liegen
+# Parameter: Dateipfad vom Luftbild und HSV-Farbbereiche (h_bereiche, s_bereiche, v_bereiche)
 
 from PIL import Image
 import numpy as np
@@ -11,7 +13,6 @@ import hilfsfunktionen
 # Parameter
 path_luftbild = "/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
 farbe = "grün" #Auszuwertender Farbanteil ("grün" oder "braun")
-
 if farbe == "grün":
     # Grüne Farbbereiche:
     h_bereiche = [(60,180),(180,300)]

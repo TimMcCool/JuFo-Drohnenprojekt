@@ -1,5 +1,7 @@
-# Findet Pixel, für deren RGB-Farbtripel die Bedingungen G/B > min_gr_gb_quot und G/R > min_gr_gb_quot gelten
-# Verwendet zur Bestimmung des Grünanteils
+# Dient zur Auswertung von Luftbildern
+# Vom Skript ermittelter Parameter: Grünanteils
+# Funktionsweise: Findet Pixel, für deren RGB-Farbtripel die Bedingungen G/B > min_gr_gb_quot und G/R > min_gr_gb_quot gelten
+# Parameter: Dateipfad vom Luftbild und min_gr_gb_quot (float)
 
 from PIL import Image
 import numpy as np

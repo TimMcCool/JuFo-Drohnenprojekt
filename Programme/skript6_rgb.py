@@ -1,5 +1,7 @@
-# Finden von Clustern ähnlicher Farben mit k-means Clustering bei Wärmebildern
-# Ausgeben des "kältesten" Clusters
+# Dient zur Auswertung von Wärmebildern
+# Vom Skript ermittelter Parameter: Waldanteil
+# Funktionsweise: Finden von Clustern ähnlicher Farben mit k-means Clustering bei Wärmebildern, Ausgeben des "kältesten" Clusters
+# Parameter: Dateipfad zu einer JSON Datei mit den Farbwerten der Farbskala, Dateipfad des Eingabewärmebilds, Dateipfad des zugehörigen Luftbilds (zur Visualisierung des Ergebnisses im Luftbild)
 
 from PIL import Image
 import numpy as np

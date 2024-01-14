@@ -1,5 +1,7 @@
-# Findet Pixel, die "nahe" an vorgegebenen Referenz-Farbtripeln liegen (Entfernung zweier Farbwerte durch euklidischen Abstand bestimmt)
-# Verwendet zur Bestimmung von Grünanteil und Braunanteil
+# Dient zur Auswertung von Luftbildern
+# Vom Skript ermittelte Parameter: Grünanteil und Braunanteil
+# Funktionsweise: Findet Pixel, die "nahe" an gegebenen Referenzfarbtripeln liegen
+# Parameter: Dateipfad zum Luftbild, max_distanz (float) und Dateipfad zu einer JSON Datei mit den gegebenen Referenzfarbtripeln
 
 from PIL import Image
 import numpy as np
@@ -11,7 +13,6 @@ import hilfsfunktionen
 # Parameter
 path_luftbild = "/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
 farbe = "grün"
-
 if farbe == "grün":
     max_distanz = 15 #Maximaler euklidischer Abstand zwischen einem der vorgegeben Farbwerte und dem Farbwert eines Pixels, der im Farbbereich liegen soll
     farbwerte_json_path = "/Programme/Skript 3 Referenzfarbtripel/gruentoene_alle_rgb.json"# Dateipfad der JSON-Datei, die die Referenzfarbtripel enthält

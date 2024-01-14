@@ -1,5 +1,7 @@
-# Findet im Wärmebild alle Pixel, die in einem bestimmten Farbbereich liegen
-# Verwendet zur Bestimmung des Waldanteils bei Wärmebildern, bei denen der von der Farbskala abgedeckte Temperaturbereich vorab nicht eingestellt wurde
+# Dient zur Auswertung von Wärmebildern
+# Vom Skript ermittelter Parameter: Waldanteil
+# Funktionsweise: Findet im Wärmebild alle Pixel, die in einem bestimmten Farbbereich liegen
+# Parameter: HSV-Farbbereich, Dateipfad zu einer JSON Datei mit den Farbwerten der Farbskala, Dateipfad des Eingabewärmebilds, Dateipfad des zugehörigen Luftbilds (zur Visualisierung des Ergebnisses im Luftbild)
 
 from PIL import Image
 import numpy as np

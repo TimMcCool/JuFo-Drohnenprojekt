@@ -1,5 +1,7 @@
-# Wertet ein  Wärmebild aus. Filtert alle "kalten" Pixel heraus. Für "kalte" Pixel gilt: (t - temp_min) / (temp_max - temp_min) < bias
-# Verwendet zur Bestimmung des Waldanteils
+# Dient zur Auswertung von Wärmebildern
+# Vom Skript ermittelter Parameter: Waldanteil
+# Funktionsweise: Filtert alle "kalten" Pixel heraus. Für "kalte" Pixel gilt: (t - temp_min) / (temp_max - temp_min) < bias
+# Parameter: bias, Dateipfad zu einer JSON Datei mit den Farbwerten der Farbskala, Dateipfad des Eingabewärmebilds, Dateipfad des zugehörigen Luftbilds (zur Visualisierung des Ergebnisses im Luftbild)
 
 from PIL import Image
 from PIL import ImageFont

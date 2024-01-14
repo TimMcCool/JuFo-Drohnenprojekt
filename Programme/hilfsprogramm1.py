@@ -35,7 +35,6 @@ if farbe == "grün":
         "C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Rohdaten/Bilder 27-04-22/Route 2 - 1. Versuch/YUN00003.jpg",
         "C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Rohdaten/Bilder 27-04-22/Route 2 - 1. Versuch/YUN00004.jpg",
         "C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Rohdaten/Bilder 27-04-22/Route 2 - 1. Versuch/YUN00007.jpg",
-
     ]
 
 elif farbe == "braun":

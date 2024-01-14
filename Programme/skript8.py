@@ -12,11 +12,11 @@ import skript1_hsv
 import skript4_rgb
 import hilfsprogramm3
 
+# Parameter:
 path_luftbild = "/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
 path_waermebild = "/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpeg" #Hier ist der Dateipfad zum Wärmebild anzugeben, das ausgewertet werden soll
 
 # Maximale und minimale Temperatur der Wärmebild-Farbskala festlegen
-
 skala_min = 5
 skala_max = 44
 
