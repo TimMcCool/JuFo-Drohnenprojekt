@@ -11,14 +11,14 @@ import matplotlib.image as mpimg
 import hilfsfunktionen
 
 # Parameter
-path_luftbild = "/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
+path_luftbild = "Bilder/Eingabebilder/Bilder 16-07-22/Flugroute 2/YUN00002.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
 farbe = "grün"
 if farbe == "grün":
     max_distanz = 15 #Maximaler euklidischer Abstand zwischen einem der vorgegeben Farbwerte und dem Farbwert eines Pixels, der im Farbbereich liegen soll
-    farbwerte_json_path = "/Programme/Skript 3 Referenzfarbtripel/gruentoene_alle_rgb.json"# Dateipfad der JSON-Datei, die die Referenzfarbtripel enthält
+    farbwerte_json_path = "Programme/Skript 3 Referenzfarbtripel/gruentoene_alle_rgb.json"# Dateipfad der JSON-Datei, die die Referenzfarbtripel enthält
 elif farbe == "braun":
     max_distanz = 14 #Maximaler euklidischer Abstand zwischen einem der vorgegeben Farbwerte und dem Farbwert eines Pixels, der im Farbbereich liegen solls
-    farbwerte_json_path = "/Programme/Skript 3 Referenzfarbtripel/brauntoene_alle_rgb.json"
+    farbwerte_json_path = "Programme/Skript 3 Referenzfarbtripel/brauntoene_alle_rgb.json"
 assert farbe == "grün" or farbe == "braun"
 
 def parse_image(im, *, new_size):

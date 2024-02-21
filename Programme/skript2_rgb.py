@@ -11,7 +11,7 @@ import matplotlib.image as mpimg
 import hilfsfunktionen
 
 # Parameter
-path_luftbild = "C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Bilder/Eingabebilder/Bilder 22-10-22/Flugroute 1/YUN00005.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
+path_luftbild = "Bilder/Eingabebilder/Bilder 16-07-22/Flugroute 2/YUN00002.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
 min_gr_gb_quot = 1.05
 
 def parse_image(im, *, new_size):

@@ -16,8 +16,8 @@ import hilfsfunktionen
 skala_min = 5
 skala_max = 44
 
-path_waermebild = "/Bilder/Eingabebilder/Bilder 26-05-23/Flugroute 1/YUN00018.jpeg" # Pfad zum Wärmebild, dessen Temperaturen umgerechnet werden sollen
-path_luftbild = "/Bilder/Eingabebilder/Bilder 26-05-23/Flugroute 1/YUN00018.jpg" # Pfad zum Luftbild, das zum Wärmebild gehört
+path_luftbild = "Bilder/Eingabebilder/Bilder 26-05-23/Flugroute 1/YUN00013.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
+path_waermebild = "Bilder/Eingabebilder/Bilder 26-05-23/Flugroute 1/YUN00013.jpeg" #Hier ist der Dateipfad zum Wärmebild anzugeben, das ausgewertet werden soll
 
 # Variable für die einzulesende Farbskala initialisieren
 farbskala = []
@@ -105,7 +105,7 @@ if __name__ == "__main__":
             draw.text((o*30+3, i*30+3),str(temperatures[i][o]),(255,255,255),font=font)
 
     im_waermebild.show()
-    im_waermebild.save("C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Programme/Outputs/Hilfsprogramm3_waermebild.png")
+    #im_waermebild.save("C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Programme/Outputs/Hilfsprogramm3_waermebild.png")
 
     # Werte auf Pixel des zugeh. Luftbilds schreiben
 
@@ -117,7 +117,7 @@ if __name__ == "__main__":
             draw.text((o*30+3, i*30+3),str((round(temperatures[i][o])*100)/100),(255,255,255),font=font)
 
     im_luftbild.show()
-    im_luftbild.save("C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Programme/Outputs/Hilfsprogramm3_luftbild.png")
+    #im_luftbild.save("C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Programme/Outputs/Hilfsprogramm3_luftbild.png")
 
     # Durchschnittstemperatur ausgeben
     print("Durchschnittswert:", np.average(temperatures))

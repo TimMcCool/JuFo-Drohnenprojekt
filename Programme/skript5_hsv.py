@@ -11,8 +11,8 @@ import matplotlib.image as mpimg
 import hilfsfunktionen
 
 #Parameter
-path_luftbild = "/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das zum Wärmebild ehört (wird nicht ausgewertet, sondern nur zur Visualisierung genutzt)
-path_waermebild = "/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpeg" #Hier ist der Dateipfad zum Wärmebild anzugeben, das ausgewertet werden soll
+path_luftbild = "Bilder/Eingabebilder/Bilder 16-07-22/Flugroute 2/YUN00002.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
+path_waermebild = "Bilder/Eingabebilder/Bilder 16-07-22/Flugroute 2/YUN00002.jpeg" #Hier ist der Dateipfad zum Wärmebild anzugeben, das ausgewertet werden soll
 
 # Farbbereich, der alle "kalten" Pixel abdeckt
 h_bereiche = [(96, 240)]

@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
 # Parameter:
-path_luftbild = "/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
-path_waermebild = "/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpeg" #Hier ist der Dateipfad zum Wärmebild anzugeben, das ausgewertet werden soll
+path_luftbild = "Bilder/Eingabebilder/Bilder 16-07-22/Flugroute 2/YUN00002.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
+path_waermebild = "Bilder/Eingabebilder/Bilder 16-07-22/Flugroute 2/YUN00002.jpeg" #Hier ist der Dateipfad zum Wärmebild anzugeben, das ausgewertet werden soll
 
 def schnittmengen_bestimmen(im_luftbild, im_waermebild):
     """

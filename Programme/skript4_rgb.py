@@ -14,8 +14,8 @@ import hilfsfunktionen
 import hilfsprogramm3
 
 #Parameter
-path_luftbild = "C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das zum Wärmebild ehört (wird nicht ausgewertet, sondern nur zur Visualisierung genutzt)
-path_waermebild = "C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Bilder/Eingabebilder/Bilder x-x-x/Flugroute x/YUN000xx.jpeg" #Hier ist der Dateipfad zum Wärmebild anzugeben, das ausgewertet werden soll
+path_luftbild = "Bilder/Eingabebilder/Bilder 16-07-22/Flugroute 2/YUN00002.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
+path_waermebild = "Bilder/Eingabebilder/Bilder 16-07-22/Flugroute 2/YUN00002.jpeg" #Hier ist der Dateipfad zum Wärmebild anzugeben, das ausgewertet werden soll
 path_farbskala_json = "C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Programme/Farbskalen/drohne_waermebild_farbskala.json" #Hier ist der Dateipfad zur JSON-Datei, die die Farbwerte der Farbskala enthält, anzugeben
 bias = 0.42
 
