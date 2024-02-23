@@ -13,7 +13,7 @@ num_farbwerte = 200
 
 # Bild mit Farbskala einlesen
 
-im = Image.open("/Programme/Farbskalen/drohne_waermebild_farbskala.png")
+im = Image.open("Programme/Farbskalen/drohne_waermebild_farbskala.png")
 im = im.resize((round((num_farbwerte/im.size[1])*im.size[0]), num_farbwerte))
 pix = np.array(im) #Image-Objekt in 3-dimensionalen np Array umwandeln
 
