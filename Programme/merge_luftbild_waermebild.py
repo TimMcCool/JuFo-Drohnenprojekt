@@ -57,11 +57,11 @@ def difference_blending(luftbild : Image, waermebild : Image):
     waermebild_data.putdata(newData)
     return waermebild
 
-im_luftbild = Image.open("C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Luftbilder/Bilder 16-07-22/Flugroute 1/YUN00005.jpg")
-im_waermebild = Image.open("C:/Users/timkr/OneDrive/Hector/2022-23/Kooperationsphase Projekt/Luftbilder/Bilder 16-07-22/Flugroute 1/YUN00005.jpeg")
+im_luftbild = Image.open("Bilder/Luftbilder/Bilder 16-07-22/Flugroute 1/YUN00005.jpg")
+im_waermebild = Image.open("Bilder/Luftbilder/Bilder 16-07-22/Flugroute 1/YUN00005.tif")
 
 im_luftbild.show()
 im_waermebild.show()
 
-verknuepft = difference_blending(im_luftbild, im_waermebild)
+verknuepft = alpha_komposition(im_luftbild, im_waermebild)
 verknuepft.show()
