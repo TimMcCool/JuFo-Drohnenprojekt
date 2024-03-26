@@ -9,6 +9,7 @@ import json
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import hilfsfunktionen
+#Image.MAX_IMAGE_PIXELS = None # Ermöglicht das Einlesen größerer Bilder. Zeile nur aktivieren, wenn nötig
 
 # Parameter
 path_luftbild = "Bilder/Eingabebilder/Bilder 16-07-22/Flugroute 2/YUN00002.jpg" #Hier ist der Dateipfad zum Luftbild anzugeben, das ausgewertet werden soll
